@@ -1,0 +1,1252 @@
+cena,powierzchnia,wiek,czynsz,pokoje,piętro,wysokość budynku,odległość od centrum,miasto,zabudowa,wykończenie,okna,ogrzewanie
+295000,54.26,73.0,686.0,2.0,1,3.0,91.95,Radom,blok,do remontu,plastikowe,miejskie
+500000,27.76,55.0,300.0,1.0,5,10.0,3.79,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+790000,50.5,22.0,950.0,2.0,3,4.0,12.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+470000,32.5,27.0,,1.0,2,3.0,12.02,Warszawa,blok,do zamieszkania,drewniane,miejskie
+660000,41.23,3.0,750.0,2.0,parter,,14.06,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1199900,125.2,5.0,,5.0,1,2.0,15.03,Kobyłka,apartamentowiec,do zamieszkania,plastikowe,gazowe
+259000,23.1,45.0,279.0,2.0,> 10,11.0,95.1,Płock,blok,do zamieszkania,plastikowe,miejskie
+800000,50.7,27.0,870.0,3.0,2,4.0,13.43,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+849000,54.5,61.0,1200.0,3.0,2,3.0,4.36,Warszawa,blok,do remontu,plastikowe,miejskie
+899000,54.0,56.0,630.0,3.0,1,11.0,4.7,Warszawa,blok,do zamieszkania,plastikowe,
+799000,72.12,,800.0,4.0,parter,3.0,86.05,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+682000,51.67,,800.0,2.0,3,12.0,10.64,Warszawa,blok,do remontu,,miejskie
+1554450,72.3,13.0,1000.0,3.0,5,13.0,3.71,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+650000,62.5,56.0,,3.0,9,10.0,5.83,Warszawa,blok,do remontu,plastikowe,miejskie
+898600,62.5,17.0,1300.0,3.0,2,3.0,13.34,Pruszków,blok,do zamieszkania,drewniane,gazowe
+749000,41.5,,,2.0,6,,7.6,Warszawa,blok,do zamieszkania,,miejskie
+439000,49.0,47.0,460.0,2.0,4,10.0,42.52,Żyrardów,blok,do zamieszkania,plastikowe,miejskie
+819000,51.2,14.0,1100.0,2.0,2,2.0,11.52,Warszawa,apartamentowiec,do zamieszkania,plastikowe,kotłownia
+570000,33.51,24.0,711.0,1.0,5,5.0,9.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1130000,51.5,17.0,610.0,2.0,parter,5.0,4.96,Warszawa,blok,,,
+990000,58.3,52.0,1000.0,3.0,3,10.0,6.97,Warszawa,blok,do remontu,plastikowe,miejskie
+1690000,163.0,25.0,2300.0,4.0,2,3.0,14.78,Józefosław,apartamentowiec,do zamieszkania,drewniane,gazowe
+975000,58.0,52.0,850.0,3.0,5,10.0,1.47,Warszawa,blok,do remontu,plastikowe,miejskie
+780000,40.0,24.0,1250.0,2.0,3,7.0,4.18,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+930000,42.25,3.0,270.0,2.0,7,8.0,6.79,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1218000,58.18,1.0,,3.0,3,5.0,6.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+799000,63.0,46.0,950.0,3.0,4,9.0,5.83,Warszawa,blok,do remontu,plastikowe,miejskie
+1490000,72.79,11.0,1020.0,3.0,6,7.0,4.94,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1490000,78.51,14.0,1060.0,3.0,4,7.0,6.64,Warszawa,blok,do zamieszkania,drewniane,miejskie
+890000,44.26,67.0,700.0,1.0,1,6.0,1.5,Warszawa,kamienica,do remontu,,miejskie
+610000,38.0,54.0,697.0,2.0,3,4.0,5.13,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+358000,19.9,61.0,288.0,1.0,7,12.0,5.19,Warszawa,blok,do zamieszkania,plastikowe,
+900000,38.0,121.0,,2.0,3,7.0,0.57,Warszawa,kamienica,do remontu,plastikowe,miejskie
+590000,50.0,64.0,900.0,2.0,3,3.0,6.61,Warszawa,blok,do remontu,plastikowe,miejskie
+1229000,50.46,10.0,1200.0,2.0,2,4.0,8.39,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+980000,57.35,18.0,860.0,2.0,parter,4.0,9.18,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+430000,30.5,25.0,420.0,1.0,parter,3.0,11.22,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+559000,43.1,17.0,680.0,2.0,3,8.0,15.57,Piaseczno,apartamentowiec,do zamieszkania,plastikowe,gazowe
+800000,43.18,10.0,700.0,2.0,parter,5.0,7.47,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+799000,64.5,36.0,1154.0,3.0,3,9.0,5.68,Warszawa,blok,do remontu,,miejskie
+399900,36.4,27.0,500.0,2.0,suterena,10.0,6.47,Warszawa,blok,do zamieszkania,,miejskie
+540000,57.0,20.0,950.0,3.0,2,3.0,23.93,Radzymin,blok,do zamieszkania,plastikowe,
+1700000,81.97,7.0,1266.0,4.0,2,6.0,6.45,Warszawa,blok,do zamieszkania,drewniane,
+2200000,139.7,26.0,,5.0,1,2.0,6.95,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+798000,68.0,,1100.0,3.0,5,5.0,1.39,Warszawa,blok,,plastikowe,miejskie
+1199000,49.0,54.0,1250.0,3.0,1,15.0,0.89,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+852530,44.87,18.0,800.0,2.0,2,7.0,1.51,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+985000,68.3,16.0,,3.0,2,3.0,15.08,Warszawa,blok,do zamieszkania,,
+339000,48.0,61.0,399.0,3.0,1,4.0,50.88,Wyszków,blok,do remontu,plastikowe,miejskie
+735000,38.0,57.0,650.0,2.0,6,15.0,0.29,Warszawa,blok,do wykończenia,plastikowe,miejskie
+799000,50.0,17.0,,2.0,parter,6.0,5.63,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+499000,47.0,54.0,650.0,3.0,4,4.0,15.17,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+1130000,47.5,57.0,,3.0,3,,4.26,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,49.2,65.0,600.0,3.0,4,4.0,7.18,Warszawa,blok,do wykończenia,plastikowe,miejskie
+999000,43.12,9.0,655.0,2.0,1,7.0,3.99,Warszawa,apartamentowiec,do zamieszkania,,
+799000,47.4,25.0,1100.0,2.0,2,7.0,4.19,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1035000,74.16,1.0,967.0,3.0,1,7.0,8.69,Warszawa,blok,,plastikowe,miejskie
+1128000,60.0,17.0,760.0,3.0,2,3.0,6.75,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1279000,69.31,16.0,800.0,3.0,3,3.0,5.13,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+415000,32.6,56.0,400.0,1.0,4,4.0,18.79,Konstancin-Jeziorna,blok,do wykończenia,plastikowe,miejskie
+877800,46.2,58.0,566.0,3.0,6,10.0,4.95,Warszawa,blok,do zamieszkania,,miejskie
+2995000,144.0,19.0,2370.0,4.0,> 10,23.0,2.98,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+849000,42.73,10.0,800.0,2.0,2,3.0,8.39,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+734900,45.96,58.0,900.0,2.0,1,4.0,5.85,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+560000,34.0,47.0,600.0,2.0,> 10,11.0,7.24,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+669000,41.0,51.0,600.0,2.0,6,10.0,5.85,Warszawa,blok,do zamieszkania,,miejskie
+725000,58.0,12.0,650.0,3.0,4,6.0,17.18,Piaseczno,apartamentowiec,do wykończenia,plastikowe,miejskie
+620000,42.38,11.0,690.0,2.0,1,2.0,13.92,Pruszków,blok,do zamieszkania,plastikowe,gazowe
+855000,54.5,11.0,820.0,3.0,1,7.0,8.06,Warszawa,blok,do zamieszkania,,kotłownia
+609000,48.6,56.0,600.0,2.0,1,4.0,7.98,Warszawa,blok,do remontu,plastikowe,miejskie
+980000,52.0,72.0,1200.0,3.0,3,7.0,2.62,Warszawa,kamienica,do zamieszkania,,miejskie
+1670000,82.7,17.0,800.0,3.0,parter,5.0,4.96,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1190000,60.0,,1500.0,3.0,,10.0,6.86,Warszawa,blok,do zamieszkania,plastikowe,
+899000,71.23,22.0,830.0,3.0,parter,1.0,13.54,Pruszków,blok,do zamieszkania,plastikowe,gazowe
+1395000,47.5,3.0,,2.0,parter,,5.23,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+699000,56.72,44.0,1100.0,2.0,7,15.0,7.3,Warszawa,blok,do remontu,,miejskie
+989000,72.5,6.0,,4.0,3,5.0,5.75,Warszawa,apartamentowiec,,,miejskie
+1230000,47.55,106.0,500.0,2.0,1,6.0,0.49,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1270000,70.8,18.0,1000.0,3.0,1,4.0,7.78,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+357000,35.8,66.0,500.0,1.0,1,,21.49,Wołomin,blok,,drewniane,miejskie
+779000,46.0,53.0,800.0,2.0,10,10.0,6.34,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+740000,48.36,51.0,650.0,3.0,parter,10.0,4.09,Warszawa,blok,do remontu,,miejskie
+1120000,51.0,15.0,955.0,2.0,3,4.0,3.82,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1150000,77.51,10.0,1100.0,4.0,2,3.0,12.97,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+2980000,151.0,19.0,2100.0,4.0,2,2.0,10.0,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+799000,46.67,126.0,890.0,2.0,1,4.0,1.06,Warszawa,kamienica,,,miejskie
+870000,61.1,46.0,1100.0,3.0,3,9.0,7.26,Warszawa,blok,do zamieszkania,,miejskie
+879000,42.0,54.0,700.0,2.0,8,,1.14,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1345000,71.5,13.0,1000.0,3.0,2,4.0,9.43,Warszawa,apartamentowiec,do zamieszkania,plastikowe,
+2199000,91.5,11.0,1100.0,3.0,2,6.0,3.75,Warszawa,apartamentowiec,,,
+585000,27.71,8.0,720.0,1.0,1,4.0,7.41,Warszawa,blok,do zamieszkania,,kotłownia
+710000,59.79,14.0,866.0,3.0,1,2.0,10.31,Ząbki,blok,do zamieszkania,plastikowe,kotłownia
+529000,26.49,11.0,470.0,1.0,4,4.0,7.71,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+950000,46.8,28.0,700.0,2.0,1,4.0,5.34,Warszawa,blok,do zamieszkania,drewniane,miejskie
+419000,22.82,88.0,400.0,2.0,1,1.0,7.36,Warszawa,kamienica,do remontu,,gazowe
+760000,46.3,58.0,750.0,3.0,2,17.0,4.57,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+750000,54.0,55.0,945.0,3.0,9,10.0,4.07,Warszawa,blok,do remontu,plastikowe,miejskie
+990000,60.0,21.0,780.0,2.0,8,13.0,7.34,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+855000,45.03,10.0,924.0,2.0,2,9.0,7.08,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+825000,38.5,66.0,,2.0,6,6.0,3.07,Warszawa,blok,do zamieszkania,,miejskie
+780000,48.0,50.0,800.0,3.0,10,10.0,4.57,Warszawa,blok,,,miejskie
+640000,44.0,46.0,,2.0,6,15.0,6.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+469000,20.67,71.0,572.0,1.0,5,5.0,3.68,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1700000,98.99,6.0,1600.0,3.0,3,5.0,7.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1900000,80.0,94.0,1400.0,3.0,2,2.0,3.28,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+749000,68.5,17.0,,3.0,3,3.0,12.94,Marki,blok,do zamieszkania,,
+635000,38.0,51.0,800.0,2.0,1,11.0,4.48,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+799000,52.83,8.0,700.0,3.0,2,3.0,10.24,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1100000,52.99,8.0,830.0,3.0,parter,5.0,7.54,Warszawa,blok,do zamieszkania,,miejskie
+790000,38.74,17.0,770.0,1.0,10,10.0,5.79,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1069000,51.0,66.0,990.0,2.0,3,4.0,4.28,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+999000,51.0,,,2.0,4,4.0,4.66,Warszawa,blok,,,
+625000,33.0,87.0,317.0,1.0,4,4.0,4.66,Warszawa,kamienica,do zamieszkania,,miejskie
+940000,42.81,6.0,776.0,2.0,1,7.0,4.95,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1200000,46.2,11.0,890.0,2.0,4,6.0,4.13,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+615000,38.0,56.0,600.0,2.0,9,10.0,4.0,Warszawa,blok,do zamieszkania,plastikowe,
+999000,41.13,1.0,750.0,2.0,1,4.0,7.83,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1120000,54.72,9.0,906.0,2.0,5,6.0,4.67,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1050000,49.0,55.0,690.0,3.0,9,11.0,1.81,Warszawa,blok,do zamieszkania,,miejskie
+719000,48.2,57.0,750.0,2.0,8,10.0,6.35,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+950000,34.83,11.0,574.0,1.0,1,6.0,1.76,Warszawa,apartamentowiec,,drewniane,miejskie
+595000,38.0,6.0,450.0,2.0,parter,6.0,5.69,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,31.93,10.0,720.0,2.0,5,6.0,12.59,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+829000,66.4,4.0,830.0,3.0,2,2.0,15.99,Pruszków,blok,do zamieszkania,,miejskie
+745000,62.2,51.0,1100.0,3.0,4,4.0,10.56,Warszawa,blok,do zamieszkania,,miejskie
+650000,59.63,47.0,1270.0,3.0,1,4.0,42.1,Grójec,blok,do zamieszkania,plastikowe,miejskie
+525000,49.5,26.0,580.0,2.0,parter,3.0,86.44,Siedlce,blok,do zamieszkania,,miejskie
+588000,37.9,58.0,798.0,2.0,3,7.0,4.1,Warszawa,blok,do remontu,,miejskie
+810000,37.1,23.0,606.0,1.0,3,9.0,1.22,Warszawa,blok,,,miejskie
+2600000,99.15,23.0,1050.0,4.0,3,4.0,11.52,Warszawa,blok,do remontu,,miejskie
+2570000,128.0,47.0,1900.0,5.0,3,7.0,2.16,Warszawa,blok,do zamieszkania,,miejskie
+597000,56.41,,366.0,2.0,parter,2.0,16.82,Jabłonna,apartamentowiec,do zamieszkania,plastikowe,gazowe
+550000,31.0,54.0,730.0,1.0,9,10.0,7.48,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+799000,51.1,71.0,549.0,3.0,parter,4.0,4.13,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1999991,103.5,88.0,,4.0,2,5.0,1.9,Warszawa,kamienica,do remontu,,miejskie
+699900,68.0,9.0,620.0,3.0,5,7.0,89.68,Radom,blok,do zamieszkania,,miejskie
+780000,54.88,66.0,838.0,3.0,5,10.0,3.95,Warszawa,blok,do remontu,plastikowe,miejskie
+810000,51.0,9.0,600.0,3.0,4,6.0,16.28,Pruszków,apartamentowiec,do zamieszkania,,miejskie
+760000,36.0,50.0,1400.0,2.0,5,8.0,1.22,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1016160,70.08,19.0,1200.0,3.0,3,3.0,15.8,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1299000,58.03,64.0,820.0,2.0,2,2.0,3.57,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+769000,62.22,1.0,750.0,3.0,2,2.0,10.79,Warszawa,blok,do wykończenia,plastikowe,kotłownia
+1890000,98.0,19.0,1500.0,4.0,1,4.0,6.83,Warszawa,apartamentowiec,,plastikowe,miejskie
+679000,50.1,46.0,1028.0,2.0,6,11.0,6.85,Warszawa,blok,do zamieszkania,,miejskie
+779000,52.0,17.0,700.0,2.0,2,3.0,18.41,Piaseczno,blok,do zamieszkania,plastikowe,miejskie
+1249000,49.41,10.0,750.0,2.0,parter,4.0,9.08,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+915000,76.5,14.0,900.0,4.0,4,10.0,16.9,Piaseczno,blok,do zamieszkania,plastikowe,miejskie
+895000,48.42,67.0,950.0,2.0,1,4.0,3.92,Warszawa,kamienica,do zamieszkania,,miejskie
+1449000,86.0,7.0,,4.0,2,3.0,11.25,Warszawa,apartamentowiec,do zamieszkania,,inne
+890000,57.5,57.0,900.0,2.0,1,4.0,4.23,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1195000,65.74,19.0,1100.0,3.0,1,15.0,5.87,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+699000,63.0,20.0,950.0,3.0,2,3.0,16.73,Piaseczno,blok,do zamieszkania,plastikowe,gazowe
+980000,41.0,7.0,,2.0,8,16.0,2.56,Warszawa,blok,do zamieszkania,,miejskie
+950000,51.0,8.0,,2.0,3,5.0,6.18,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+920000,53.0,28.0,800.0,2.0,9,11.0,4.82,Warszawa,apartamentowiec,,drewniane,miejskie
+1700000,75.52,8.0,1000.0,3.0,4,5.0,4.61,Warszawa,apartamentowiec,do zamieszkania,plastikowe,
+649000,36.5,58.0,595.0,1.0,1,10.0,2.64,Warszawa,blok,do wykończenia,,miejskie
+450000,37.5,55.0,700.0,2.0,3,4.0,15.37,Warszawa,blok,,,miejskie
+920000,50.5,88.0,850.0,2.0,4,4.0,2.93,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+770000,65.0,47.0,950.0,3.0,parter,11.0,7.95,Warszawa,blok,do remontu,,miejskie
+699000,63.0,20.0,950.0,4.0,2,3.0,16.73,Piaseczno,blok,do zamieszkania,plastikowe,gazowe
+1100000,140.0,36.0,650.0,4.0,3,4.0,15.41,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+955000,47.73,5.0,760.0,2.0,3,4.0,8.17,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+720000,38.67,61.0,836.0,2.0,8,9.0,1.74,Warszawa,blok,do wykończenia,,
+1199000,80.0,6.0,,3.0,1,1.0,17.0,Warszawa,apartamentowiec,do zamieszkania,plastikowe,gazowe
+1150000,64.0,14.0,1000.0,2.0,2,4.0,9.6,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+899000,70.0,18.0,1000.0,3.0,3,3.0,18.24,Legionowo,blok,do zamieszkania,plastikowe,miejskie
+1479000,55.0,126.0,720.0,3.0,2,5.0,0.66,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1840000,103.4,26.0,1.0,4.0,parter,6.0,4.02,Warszawa,blok,do remontu,,
+715000,58.4,12.0,730.0,3.0,parter,2.0,22.16,Wolica,blok,do zamieszkania,plastikowe,gazowe
+549000,36.0,66.0,641.0,2.0,2,7.0,8.08,Warszawa,blok,do remontu,drewniane,miejskie
+960000,100.0,18.0,700.0,3.0,,2.0,13.29,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+1100000,54.0,8.0,,3.0,7,17.0,5.63,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+389000,44.66,56.0,917.0,2.0,3,3.0,51.06,Wyszków,blok,do zamieszkania,plastikowe,miejskie
+680000,46.4,51.0,680.0,3.0,10,10.0,7.88,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+935000,48.0,77.0,600.0,2.0,2,3.0,3.33,Warszawa,kamienica,do zamieszkania,,miejskie
+720000,70.22,87.0,1200.0,3.0,2,3.0,15.81,Pruszków,kamienica,do remontu,drewniane,miejskie
+750000,42.0,6.0,415.0,2.0,parter,6.0,6.32,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+730000,45.99,43.0,800.0,2.0,2,10.0,6.13,Warszawa,blok,do zamieszkania,,miejskie
+1289000,60.0,16.0,1125.0,3.0,1,4.0,4.04,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+880000,45.6,51.0,982.0,2.0,3,12.0,2.76,Warszawa,blok,do wykończenia,plastikowe,miejskie
+795000,55.0,26.0,,2.0,4,4.0,9.42,Warszawa,blok,,,miejskie
+1750000,64.48,5.0,,3.0,4,6.0,6.28,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+799000,48.6,58.0,900.0,3.0,9,10.0,8.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+795000,30.0,15.0,560.0,1.0,4,6.0,3.36,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+2485000,89.16,11.0,1300.0,3.0,1,6.0,3.68,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+499000,33.0,56.0,799.0,1.0,1,10.0,6.54,Warszawa,blok,do wykończenia,plastikowe,kotłownia
+915000,59.1,40.0,1.0,3.0,6,8.0,6.15,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+959000,61.62,47.0,,3.0,5,11.0,7.1,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+766000,37.8,1.0,610.0,2.0,7,7.0,8.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+749999,45.3,50.0,817.0,2.0,9,10.0,7.04,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,47.6,48.0,1000.0,2.0,5,12.0,7.16,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1720000,58.24,6.0,1200.0,3.0,parter,2.0,3.71,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+749969,45.5,56.0,770.0,2.0,8,10.0,6.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+510000,35.0,58.0,550.0,2.0,> 10,17.0,4.65,Warszawa,blok,do remontu,plastikowe,miejskie
+579900,34.5,76.0,700.0,1.0,parter,3.0,1.58,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1400000,53.97,,918.0,2.0,1,6.0,1.76,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+879000,49.0,4.0,623.0,2.0,parter,5.0,5.67,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1230000,54.0,16.0,1060.0,2.0,4,4.0,8.69,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+384700,44.18,96.0,,2.0,1,2.0,26.5,Milanówek,kamienica,do wykończenia,drewniane,kotłownia
+770000,51.5,56.0,784.0,2.0,2,12.0,6.04,Warszawa,blok,,plastikowe,miejskie
+1200000,46.0,56.0,1038.0,3.0,,10.0,2.33,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1790000,72.0,3.0,850.0,2.0,> 10,27.0,3.53,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+750000,46.9,,1000.0,2.0,4,5.0,3.53,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+950000,58.0,48.0,997.0,3.0,5,6.0,8.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1299000,114.3,28.0,,5.0,2,2.0,10.11,Warszawa,blok,,plastikowe,miejskie
+502700,38.97,56.0,,2.0,parter,1.0,26.5,Milanówek,kamienica,do wykończenia,plastikowe,kotłownia
+1399000,73.0,6.0,900.0,3.0,3,7.0,6.3,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+949000,58.4,14.0,950.0,3.0,4,4.0,8.74,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+790000,42.0,63.0,910.0,2.0,parter,6.0,3.26,Warszawa,blok,do wykończenia,plastikowe,miejskie
+699000,37.8,57.0,608.0,2.0,6,10.0,2.21,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+999000,50.9,67.0,918.0,2.0,3,3.0,2.41,Warszawa,kamienica,do remontu,plastikowe,miejskie
+530000,60.0,,700.0,3.0,1,4.0,86.43,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+1190000,51.81,13.0,660.0,2.0,7,8.0,4.65,Warszawa,apartamentowiec,,plastikowe,
+430000,25.0,64.0,,1.0,> 10,12.0,3.92,Warszawa,blok,,,miejskie
+925000,53.0,18.0,950.0,2.0,5,7.0,4.66,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1090000,47.12,73.0,850.0,2.0,1,7.0,1.6,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1545000,61.84,12.0,800.0,3.0,2,4.0,3.78,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+745000,48.0,55.0,890.0,3.0,4,15.0,1.17,Warszawa,blok,do remontu,,miejskie
+966400,64.0,46.0,1600.0,3.0,5,10.0,6.72,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2150000,125.0,90.0,1500.0,5.0,2,2.0,3.35,Warszawa,kamienica,do remontu,plastikowe,miejskie
+1100000,52.0,12.0,650.0,2.0,3,6.0,3.41,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1549000,68.5,20.0,,3.0,5,7.0,4.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2270000,87.62,11.0,1250.0,4.0,3,6.0,3.68,Warszawa,apartamentowiec,,drewniane,
+510000,71.53,36.0,800.0,4.0,3,4.0,91.25,Płock,blok,do remontu,plastikowe,miejskie
+2499000,100.0,5.0,1280.0,4.0,2,6.0,4.32,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+350000,30.0,2021.0,600.0,1.0,1,4.0,15.06,Pruszków,blok,do remontu,plastikowe,miejskie
+610000,39.0,52.0,800.0,2.0,2,7.0,4.91,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1199000,80.0,6.0,,3.0,1,1.0,18.35,Majdan,apartamentowiec,do zamieszkania,plastikowe,gazowe
+892330,49.3,16.0,815.0,2.0,parter,4.0,9.03,Warszawa,blok,,drewniane,miejskie
+2400000,98.0,123.0,1470.0,3.0,4,5.0,0.49,Warszawa,kamienica,do remontu,plastikowe,miejskie
+1270000,70.8,,,3.0,1,4.0,7.73,Warszawa,blok,do zamieszkania,,miejskie
+628000,39.0,8.0,500.0,2.0,parter,,16.18,Pruszków,blok,,plastikowe,
+849900,56.97,4.0,900.0,2.0,2,2.0,10.93,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+1418950,76.7,25.0,1600.0,3.0,1,6.0,4.67,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,56.1,46.0,1000.0,4.0,3,11.0,19.1,Legionowo,blok,do zamieszkania,plastikowe,
+2200000,116.8,21.0,1400.0,4.0,1,7.0,4.58,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+499000,60.64,9.0,,3.0,1,4.0,107.73,Mława,blok,do zamieszkania,plastikowe,gazowe
+1490000,72.72,13.0,1100.0,3.0,1,8.0,8.06,Warszawa,blok,do zamieszkania,drewniane,miejskie
+375000,75.0,,730.0,4.0,4,4.0,96.85,Radom,blok,,plastikowe,miejskie
+799000,42.67,8.0,700.0,2.0,2,5.0,7.72,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1098000,65.26,48.0,800.0,4.0,2,12.0,7.85,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+380000,42.0,36.0,,1.0,parter,4.0,42.41,Żyrardów,blok,do remontu,plastikowe,miejskie
+1240000,71.0,7.0,750.0,3.0,3,8.0,7.25,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+690000,33.85,,576.0,2.0,,,5.62,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+720000,60.16,,900.0,4.0,2,3.0,23.18,Karczew,blok,do zamieszkania,plastikowe,miejskie
+795000,46.0,58.0,920.0,2.0,parter,4.0,2.49,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+895000,35.1,6.0,550.0,2.0,parter,6.0,4.19,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+415000,48.0,,,2.0,2,4.0,41.83,Grójec,blok,do zamieszkania,plastikowe,miejskie
+749000,50.0,9.0,648.0,2.0,3,3.0,10.27,Warszawa,blok,,,miejskie
+790000,53.39,51.0,872.0,3.0,9,10.0,5.04,Warszawa,blok,do wykończenia,plastikowe,miejskie
+175000,21.0,87.0,170.0,1.0,2,2.0,19.98,Wołomin,kamienica,do remontu,plastikowe,elektryczne
+749000,42.0,54.0,950.0,3.0,3,10.0,4.45,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1771100,89.0,32.0,2350.0,4.0,1,5.0,0.93,Warszawa,blok,do zamieszkania,,miejskie
+1088000,69.5,46.0,1000.0,3.0,4,10.0,8.51,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+829000,56.5,59.0,928.0,3.0,parter,4.0,4.69,Warszawa,blok,,,miejskie
+485000,33.55,,700.0,1.0,2,4.0,4.84,Warszawa,kamienica,do remontu,plastikowe,miejskie
+870000,94.4,,764.0,4.0,3,3.0,91.19,Radom,blok,do zamieszkania,,
+910000,61.4,46.0,1400.0,3.0,3,10.0,8.43,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+495000,26.3,,460.0,1.0,2,4.0,2.37,Warszawa,blok,,,
+999000,65.22,11.0,780.0,2.0,3,3.0,7.61,Warszawa,apartamentowiec,do zamieszkania,,gazowe
+651280,46.52,-1.0,,2.0,parter,2.0,13.01,Warszawa,blok,do wykończenia,plastikowe,miejskie
+465000,37.3,53.0,970.0,2.0,parter,10.0,6.62,Warszawa,blok,do remontu,plastikowe,miejskie
+696000,63.0,50.0,980.0,3.0,2,4.0,15.79,Pruszków,blok,do remontu,plastikowe,miejskie
+580000,36.56,91.0,850.0,3.0,2,2.0,5.05,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1990000,81.0,70.0,890.0,3.0,6,7.0,2.05,Warszawa,blok,do remontu,plastikowe,miejskie
+658000,38.7,,860.0,2.0,3,11.0,1.39,Warszawa,blok,do remontu,plastikowe,miejskie
+897328,65.98,-1.0,,3.0,1,2.0,13.02,Warszawa,blok,do wykończenia,plastikowe,miejskie
+499000,60.0,,,3.0,3,,95.73,Płock,blok,do zamieszkania,plastikowe,
+939000,55.25,18.0,850.0,3.0,1,3.0,4.79,Warszawa,blok,do zamieszkania,,miejskie
+740000,55.68,74.0,720.0,2.0,1,2.0,8.1,Warszawa,blok,do remontu,plastikowe,kotłownia
+789000,36.15,57.0,750.0,2.0,4,6.0,3.91,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1070000,78.0,26.0,600.0,2.0,1,3.0,12.04,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+670000,51.02,52.0,1020.0,3.0,5,11.0,4.76,Warszawa,blok,do wykończenia,plastikowe,miejskie
+599000,29.35,7.0,520.0,2.0,8,8.0,6.34,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+675000,50.0,24.0,1000.0,2.0,5,7.0,10.71,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+500000,32.5,54.0,567.0,2.0,parter,10.0,5.75,Warszawa,blok,do wykończenia,plastikowe,miejskie
+674730,27.0,87.0,280.0,1.0,parter,4.0,1.56,Warszawa,kamienica,do remontu,,gazowe
+800000,43.12,10.0,700.0,2.0,parter,5.0,7.47,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+723300,42.8,25.0,530.0,2.0,parter,2.0,9.28,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+769000,49.29,9.0,659.0,3.0,parter,2.0,12.75,Warszawa,blok,do zamieszkania,,kotłownia
+545000,43.4,10.0,360.0,3.0,3,3.0,91.68,Płock,blok,do zamieszkania,plastikowe,miejskie
+2900000,111.7,12.0,,4.0,9,9.0,3.78,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+635000,38.0,60.0,604.0,2.0,4,4.0,2.33,Warszawa,blok,do remontu,,miejskie
+625000,42.05,10.0,,2.0,1,4.0,12.94,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1150000,74.0,74.0,,2.0,3,,3.33,Warszawa,kamienica,,,
+520000,30.0,5.0,670.0,1.0,parter,3.0,13.17,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+899000,55.0,4.0,850.0,3.0,parter,7.0,13.07,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+990000,65.0,18.0,,2.0,2,16.0,4.43,Warszawa,apartamentowiec,do remontu,,miejskie
+830000,39.65,1.0,817.0,2.0,2,6.0,4.13,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1199000,81.5,,1500.0,3.0,1,5.0,6.38,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1040000,115.73,22.0,,4.0,1,3.0,15.21,Łomianki,blok,do zamieszkania,,miejskie
+869000,36.18,63.0,800.0,2.0,9,11.0,0.59,Warszawa,blok,do zamieszkania,,miejskie
+2350000,79.3,19.0,1000.0,3.0,1,6.0,0.98,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+820000,40.47,1.0,825.0,2.0,1,6.0,4.13,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+965000,45.34,68.0,600.0,2.0,2,4.0,0.64,Warszawa,kamienica,do remontu,,miejskie
+850000,47.8,11.0,800.0,2.0,1,3.0,4.65,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+756000,47.3,61.0,950.0,3.0,parter,4.0,4.11,Warszawa,blok,do remontu,,miejskie
+650000,55.0,0.0,,2.0,parter,1.0,20.74,Legionowo,apartamentowiec,do wykończenia,plastikowe,gazowe
+695000,35.14,,360.0,1.0,1,8.0,7.34,Warszawa,apartamentowiec,,,miejskie
+800000,59.49,6.0,950.0,3.0,4,4.0,21.06,Brwinów,blok,do zamieszkania,,inne
+848000,65.0,37.0,884.0,3.0,2,3.0,6.75,Warszawa,blok,do remontu,plastikowe,miejskie
+820000,38.8,4.0,805.0,2.0,1,6.0,4.26,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+720000,46.9,51.0,800.0,3.0,5,10.0,4.13,Warszawa,blok,do remontu,,miejskie
+1635000,115.2,27.0,2115.0,5.0,3,4.0,4.86,Warszawa,blok,do zamieszkania,plastikowe,
+839000,50.33,22.0,677.0,2.0,1,4.0,11.03,Warszawa,blok,,,miejskie
+1070000,61.32,17.0,764.0,3.0,5,10.0,6.57,Warszawa,blok,do zamieszkania,,miejskie
+670000,48.0,58.0,840.0,3.0,3,4.0,4.69,Warszawa,blok,,,miejskie
+945000,63.3,40.0,1200.0,3.0,3,3.0,10.91,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1124000,62.45,14.0,1400.0,2.0,1,8.0,7.09,Warszawa,blok,do zamieszkania,,miejskie
+1259000,54.0,90.0,1000.0,2.0,parter,3.0,2.12,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1110000,69.3,46.0,650.0,4.0,2,4.0,10.36,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+614000,23.3,20.0,700.0,1.0,3,6.0,3.35,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1242000,46.0,17.0,,2.0,3,14.0,0.59,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1599000,75.52,12.0,1580.0,4.0,2,2.0,7.56,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+480000,24.6,56.0,562.0,1.0,6,10.0,4.01,Warszawa,blok,do zamieszkania,,miejskie
+799000,50.0,6.0,1000.0,2.0,parter,4.0,10.58,Warszawa,blok,do zamieszkania,plastikowe,inne
+729000,41.0,68.0,580.0,2.0,1,6.0,3.53,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1125000,62.5,25.0,1100.0,3.0,1,3.0,9.75,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1343000,74.3,26.0,1500.0,3.0,3,4.0,5.66,Warszawa,blok,,,miejskie
+749000,56.0,53.0,913.0,3.0,8,10.0,6.33,Warszawa,blok,do remontu,plastikowe,miejskie
+910000,59.14,21.0,1060.0,3.0,4,5.0,10.25,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+685000,55.0,14.0,1100.0,3.0,1,2.0,15.44,Kręczki,blok,do zamieszkania,plastikowe,gazowe
+499000,31.52,61.0,660.0,1.0,2,7.0,3.49,Warszawa,blok,do remontu,,miejskie
+1400000,47.0,115.0,809.0,2.0,6,6.0,2.33,Warszawa,kamienica,do zamieszkania,,miejskie
+890000,54.2,52.0,1200.0,3.0,6,15.0,5.96,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+900000,61.2,53.0,1050.0,3.0,2,12.0,7.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+720000,42.4,56.0,815.0,2.0,3,10.0,6.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2990000,130.0,28.0,2000.0,4.0,1,2.0,8.66,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+900000,48.29,10.0,880.0,2.0,2,6.0,4.86,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+560000,38.93,60.0,640.0,2.0,3,4.0,4.34,Warszawa,blok,do remontu,drewniane,miejskie
+689999,57.18,16.0,650.0,3.0,1,4.0,10.63,Ząbki,blok,do zamieszkania,,inne
+1189000,70.11,16.0,1150.0,3.0,5,6.0,7.22,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+930000,30.66,7.0,780.0,1.0,4,6.0,1.93,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+3460000,164.96,8.0,,6.0,parter,3.0,9.65,Warszawa,blok,do zamieszkania,,miejskie
+1299000,59.75,10.0,832.0,3.0,3,5.0,5.22,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+950000,85.2,31.0,1299.0,4.0,2,3.0,6.57,Warszawa,blok,do wykończenia,drewniane,miejskie
+750000,55.5,54.0,1208.0,2.0,7,10.0,4.66,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1060000,81.63,18.0,1400.0,3.0,1,3.0,10.64,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+469000,26.07,0.0,,1.0,2,3.0,8.12,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+599000,35.7,68.0,600.0,2.0,6,7.0,3.2,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+7900000,342.55,15.0,5500.0,4.0,8,8.0,0.89,Warszawa,apartamentowiec,,,miejskie
+736000,54.48,69.0,750.0,2.0,3,3.0,5.05,Warszawa,kamienica,do remontu,plastikowe,miejskie
+870000,38.0,1.0,,2.0,4,9.0,5.77,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1049000,60.0,14.0,850.0,3.0,6,7.0,6.05,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1499000,80.0,7.0,1300.0,4.0,6,7.0,6.24,Warszawa,blok,do zamieszkania,,miejskie
+799000,62.0,9.0,820.0,3.0,6,11.0,16.74,Pruszków,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1020000,63.39,5.0,940.0,3.0,1,6.0,8.76,Warszawa,blok,do zamieszkania,,miejskie
+870000,59.17,1.0,528.0,3.0,3,3.0,14.15,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1250000,54.88,8.0,1000.0,3.0,,17.0,5.61,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+649000,37.08,,,2.0,6,11.0,4.13,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1140000,63.67,3.0,574.0,3.0,4,6.0,4.42,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,31.0,68.0,450.0,2.0,7,8.0,3.25,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1050000,60.1,26.0,1200.0,3.0,2,2.0,9.33,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+1283620,49.37,1.0,1000.0,3.0,parter,6.0,7.95,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1320000,79.59,8.0,1000.0,4.0,2,3.0,7.13,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+960000,56.7,21.0,812.0,2.0,5,6.0,7.29,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+420000,51.0,70.0,,3.0,3,4.0,93.64,Radom,blok,do zamieszkania,,miejskie
+790000,29.3,1.0,550.0,1.0,2,6.0,5.74,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+440000,45.0,20.0,850.0,1.0,2,2.0,32.43,Serock,apartamentowiec,do zamieszkania,plastikowe,inne
+1860000,89.0,13.0,1147.0,4.0,2,8.0,6.3,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+910000,55.07,9.0,900.0,2.0,1,4.0,7.28,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+839000,54.32,52.0,1126.0,3.0,7,10.0,4.83,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1054500,57.0,,1000.0,2.0,1,,6.83,Warszawa,apartamentowiec,do zamieszkania,,
+720000,49.3,50.0,1200.0,2.0,1,11.0,3.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1475000,54.14,9.0,727.0,2.0,5,,4.69,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+390000,37.6,,450.0,2.0,1,,92.14,Radom,apartamentowiec,,,miejskie
+1297800,63.0,7.0,1250.0,3.0,1,8.0,7.78,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+680000,37.5,64.0,544.0,1.0,parter,3.0,3.57,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+695000,35.0,64.0,,2.0,parter,2.0,3.67,Warszawa,blok,do zamieszkania,,miejskie
+3790000,194.5,30.0,4000.0,5.0,3,6.0,7.55,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+629000,47.16,61.0,620.0,2.0,parter,2.0,8.58,Warszawa,blok,do zamieszkania,,miejskie
+355000,46.46,46.0,600.0,3.0,3,4.0,91.53,Radom,blok,do zamieszkania,,miejskie
+670000,75.0,18.0,670.0,3.0,3,3.0,91.24,Radom,blok,do zamieszkania,,miejskie
+3522240,440.28,98.0,1000.0,,poddasze,4.0,2.63,Warszawa,kamienica,do wykończenia,plastikowe,miejskie
+3290000,140.0,17.0,2250.0,5.0,2,2.0,9.73,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1020000,51.66,6.0,,2.0,5,5.0,5.73,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+999000,41.23,2.0,,2.0,3,4.0,10.13,Warszawa,blok,do zamieszkania,drewniane,miejskie
+2368000,95.52,78.0,1580.0,3.0,3,3.0,0.85,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1149000,69.7,33.0,1200.0,3.0,1,6.0,3.24,Warszawa,blok,do remontu,,miejskie
+570000,44.1,25.0,850.0,2.0,6,7.0,10.79,Warszawa,blok,do remontu,,kotłownia
+660000,60.0,42.0,1150.0,3.0,3,8.0,15.19,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+949999,66.0,0.0,800.0,3.0,2,4.0,10.03,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+670000,50.1,48.0,800.0,2.0,7,11.0,6.38,Warszawa,blok,do remontu,plastikowe,miejskie
+739000,39.0,8.0,630.0,2.0,2,7.0,2.56,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+2590800,93.0,101.0,1500.0,3.0,4,4.0,1.74,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+590000,56.0,3.0,600.0,3.0,1,3.0,91.46,Radom,blok,do zamieszkania,plastikowe,miejskie
+1400000,37.63,6.0,1000.0,2.0,4,8.0,1.35,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+5240000,163.8,17.0,3000.0,5.0,4,6.0,1.73,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+789000,56.0,56.0,880.0,3.0,4,4.0,6.45,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1249000,81.0,29.0,950.0,3.0,2,4.0,6.43,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1490000,69.0,18.0,1200.0,3.0,3,8.0,4.6,Warszawa,blok,do zamieszkania,,miejskie
+1219000,53.42,70.0,750.0,2.0,1,5.0,4.38,Warszawa,kamienica,do zamieszkania,,miejskie
+439000,47.52,39.0,350.0,2.0,parter,,26.84,Błonie,blok,do remontu,plastikowe,kotłownia
+579500,40.3,16.0,570.0,2.0,1,2.0,10.1,Warszawa,blok,do wykończenia,plastikowe,
+230000,37.58,50.0,450.0,2.0,1,4.0,100.63,Ostrołęka,blok,do remontu,plastikowe,miejskie
+1650000,74.75,3.0,905.0,3.0,6,9.0,8.11,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+869000,43.5,14.0,900.0,2.0,2,14.0,3.49,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+720000,51.0,12.0,830.0,2.0,3,3.0,16.5,Pruszków,blok,do zamieszkania,,
+345000,45.61,63.0,650.0,2.0,4,4.0,91.72,Radom,blok,do zamieszkania,,miejskie
+850000,82.0,5.0,800.0,4.0,parter,4.0,97.22,Radom,blok,do zamieszkania,,miejskie
+4790000,186.0,115.0,1450.0,6.0,2,6.0,1.2,Warszawa,kamienica,,,miejskie
+4825000,112.24,8.0,,4.0,> 10,14.0,1.02,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+440000,25.0,57.0,490.0,1.0,8,10.0,1.88,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+579000,47.0,47.0,,2.0,,,23.38,Otwock,blok,do zamieszkania,,miejskie
+589000,31.57,46.0,750.0,2.0,> 10,16.0,5.75,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+558000,55.53,4.0,500.0,2.0,parter,4.0,92.39,Radom,blok,do zamieszkania,plastikowe,kotłownia
+658000,48.6,42.0,1000.0,2.0,10,10.0,5.79,Warszawa,blok,,plastikowe,miejskie
+480000,64.14,,,3.0,1,4.0,93.77,Radom,blok,do zamieszkania,,miejskie
+550000,30.7,98.0,340.0,2.0,5,5.0,3.36,Warszawa,kamienica,do zamieszkania,plastikowe,gazowe
+769000,52.0,42.0,1200.0,3.0,> 10,12.0,10.41,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+959000,46.8,9.0,700.0,2.0,2,6.0,4.61,Warszawa,blok,do wykończenia,plastikowe,miejskie
+899000,68.74,50.0,1470.0,5.0,10,12.0,7.41,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+659000,37.18,,580.0,2.0,3,3.0,6.82,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+550000,33.47,68.0,640.0,1.0,2,6.0,3.89,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+950000,117.56,86.0,700.0,3.0,1,2.0,93.28,Radom,kamienica,do zamieszkania,,miejskie
+420000,44.0,,,3.0,2,,93.04,Radom,blok,,plastikowe,miejskie
+470000,60.2,38.0,850.0,3.0,3,4.0,71.37,Węgrów,blok,do zamieszkania,plastikowe,miejskie
+700000,43.6,29.0,585.0,2.0,2,4.0,5.08,Warszawa,blok,do zamieszkania,,miejskie
+775000,57.0,56.0,1050.0,3.0,1,10.0,6.01,Warszawa,blok,,,miejskie
+645000,60.61,,626.0,2.0,parter,3.0,91.5,Radom,apartamentowiec,do zamieszkania,,miejskie
+1060000,53.1,3.0,,2.0,1,2.0,5.95,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+569000,35.8,71.0,600.0,1.0,3,5.0,1.9,Warszawa,kamienica,do remontu,plastikowe,inne
+295000,42.0,,650.0,2.0,1,2.0,43.0,Żyrardów,kamienica,do remontu,plastikowe,miejskie
+769999,46.0,0.0,590.0,3.0,parter,4.0,10.03,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+739000,53.1,,820.0,2.0,10,12.0,8.82,Warszawa,blok,do remontu,,miejskie
+2340000,72.0,,1000.0,4.0,3,5.0,2.46,Warszawa,blok,do zamieszkania,,miejskie
+719000,54.0,51.0,1000.0,3.0,3,4.0,10.26,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+989000,46.21,1.0,700.0,2.0,3,9.0,4.56,Warszawa,apartamentowiec,do wykończenia,plastikowe,inne
+2698000,147.3,17.0,2200.0,5.0,2,2.0,9.22,Warszawa,apartamentowiec,do zamieszkania,drewniane,gazowe
+950000,49.0,18.0,820.0,2.0,parter,4.0,8.97,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+580000,50.0,25.0,750.0,2.0,1,3.0,14.02,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+3600000,89.17,116.0,,3.0,2,5.0,1.63,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+1050000,87.04,16.0,1100.0,3.0,5,5.0,17.39,Parzniew,blok,do zamieszkania,drewniane,miejskie
+960000,53.0,10.0,750.0,3.0,parter,4.0,5.52,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+550000,45.5,58.0,730.0,2.0,4,4.0,14.32,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1590000,60.0,1.0,,3.0,2,6.0,6.24,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2400000,84.11,,,3.0,parter,4.0,2.05,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+595000,53.73,10.0,670.0,2.0,1,4.0,38.95,Mińsk Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+987000,90.6,27.0,1163.0,3.0,4,5.0,11.96,Warszawa,blok,do zamieszkania,plastikowe,inne
+1955000,68.66,5.0,1000.0,3.0,1,6.0,5.22,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1129000,60.0,1.0,,3.0,4,6.0,6.24,Warszawa,blok,do wykończenia,plastikowe,miejskie
+710000,42.3,51.0,980.0,2.0,10,10.0,6.78,Warszawa,blok,do wykończenia,plastikowe,miejskie
+688000,43.4,27.0,612.0,1.0,4,4.0,8.16,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+680000,48.38,55.0,600.0,3.0,4,10.0,4.5,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+840000,44.0,76.0,650.0,2.0,6,7.0,2.25,Warszawa,kamienica,,plastikowe,miejskie
+1950000,80.0,90.0,1700.0,3.0,4,5.0,2.33,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+674730,27.0,87.0,,1.0,parter,4.0,1.58,Warszawa,kamienica,do zamieszkania,,miejskie
+770000,36.07,60.0,630.0,2.0,> 10,14.0,1.95,Warszawa,blok,do zamieszkania,plastikowe,inne
+715000,47.54,14.0,,2.0,1,2.0,39.26,Sobienie Szlacheckie,blok,do zamieszkania,,gazowe
+750000,48.0,,800.0,3.0,10,10.0,4.38,Warszawa,blok,do zamieszkania,,miejskie
+640000,64.81,4.0,580.0,3.0,parter,4.0,92.39,Radom,blok,do zamieszkania,plastikowe,kotłownia
+479000,29.8,56.0,,2.0,1,4.0,7.61,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+815000,55.0,,,3.0,3,4.0,4.65,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2600000,128.0,14.0,2500.0,5.0,1,4.0,9.61,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1450000,79.27,27.0,1200.0,2.0,parter,7.0,5.75,Warszawa,blok,,plastikowe,miejskie
+799000,45.14,6.0,879.0,2.0,1,4.0,7.63,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+630000,64.0,16.0,,3.0,1,3.0,95.16,Płock,blok,do zamieszkania,,
+495000,40.2,28.0,610.0,2.0,3,4.0,10.53,Marki,blok,do zamieszkania,plastikowe,
+2570000,96.8,11.0,1793.0,3.0,4,4.0,8.55,Warszawa,blok,do zamieszkania,drewniane,miejskie
+670000,53.5,34.0,737.0,2.0,parter,4.0,12.63,Piastów,blok,do zamieszkania,plastikowe,miejskie
+1140000,50.0,3.0,570.0,2.0,1,6.0,4.76,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+359000,45.26,63.0,600.0,3.0,2,2.0,95.71,Płock,blok,do remontu,plastikowe,miejskie
+699000,47.0,57.0,800.0,3.0,4,4.0,4.79,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1010000,50.64,,,2.0,2,6.0,4.67,Warszawa,blok,do zamieszkania,,miejskie
+472000,27.8,62.0,485.0,1.0,4,4.0,3.58,Warszawa,blok,,plastikowe,miejskie
+949000,44.16,79.0,,2.0,1,3.0,4.49,Warszawa,kamienica,do remontu,plastikowe,miejskie
+519000,48.0,38.0,815.0,2.0,2,4.0,16.96,Pruszków,blok,do remontu,plastikowe,miejskie
+1699000,63.74,78.0,1470.0,2.0,3,5.0,2.13,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+1220000,74.6,20.0,1400.0,4.0,parter,6.0,8.64,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1090000,57.36,26.0,,2.0,2,7.0,5.33,Warszawa,blok,do remontu,,elektryczne
+630000,41.2,56.0,650.0,2.0,4,7.0,6.3,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1800000,52.5,70.0,890.0,2.0,6,6.0,1.28,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+699000,53.0,1.0,500.0,3.0,3,5.0,27.92,Nowy Dwór Mazowiecki,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1580000,81.0,13.0,1300.0,4.0,8,8.0,6.31,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+665000,56.3,18.0,735.0,2.0,3,3.0,10.17,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1140000,60.31,1.0,850.0,3.0,4,4.0,6.23,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+629000,47.0,61.0,620.0,2.0,parter,2.0,8.2,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+550000,46.4,50.0,600.0,2.0,7,11.0,8.14,Warszawa,blok,do remontu,plastikowe,miejskie
+698000,48.4,56.0,770.0,3.0,6,10.0,4.86,Warszawa,blok,do remontu,,
+699000,41.6,9.0,500.0,2.0,2,5.0,8.31,Warszawa,blok,do zamieszkania,,
+2990000,81.0,1.0,1800.0,3.0,6,28.0,1.61,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+719900,37.5,68.0,850.0,2.0,4,5.0,2.09,Warszawa,kamienica,do remontu,drewniane,miejskie
+660000,47.0,20.0,,3.0,1,3.0,20.29,Wołomin,blok,do zamieszkania,plastikowe,gazowe
+997000,60.89,12.0,770.0,3.0,2,3.0,6.92,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+799999,63.0,48.0,900.0,3.0,2,8.0,7.13,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+435000,33.5,26.0,500.0,1.0,4,4.0,12.36,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1055000,69.22,94.0,970.0,3.0,,,3.32,Warszawa,kamienica,do zamieszkania,drewniane,kotłownia
+839000,53.9,57.0,650.0,3.0,6,10.0,2.21,Warszawa,blok,do remontu,plastikowe,miejskie
+700000,56.63,20.0,1100.0,3.0,parter,3.0,9.77,Ząbki,blok,do remontu,plastikowe,gazowe
+1230445,57.23,0.0,,3.0,1,4.0,6.28,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1380000,71.54,17.0,1070.0,2.0,8,15.0,7.01,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+576000,36.4,13.0,450.0,1.0,5,8.0,13.76,Warszawa,apartamentowiec,do zamieszkania,plastikowe,gazowe
+780000,59.05,13.0,850.0,3.0,2,4.0,10.07,Ząbki,blok,do zamieszkania,plastikowe,gazowe
+495000,50.2,2.0,450.0,2.0,4,4.0,107.38,Mława,blok,do zamieszkania,plastikowe,gazowe
+1000000,30.81,12.0,,2.0,6,6.0,1.8,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+620000,50.4,25.0,,2.0,parter,,17.07,Piaseczno,blok,do zamieszkania,,miejskie
+625000,27.62,7.0,497.0,1.0,6,8.0,2.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2550000,123.0,10.0,,4.0,2,4.0,8.91,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+899000,58.1,51.0,900.0,6.0,6,10.0,4.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1480000,69.0,76.0,1000.0,3.0,2,3.0,1.01,Warszawa,kamienica,do zamieszkania,,miejskie
+2990000,133.0,28.0,2400.0,4.0,1,2.0,8.85,Warszawa,apartamentowiec,do zamieszkania,,gazowe
+1450000,57.0,17.0,1200.0,2.0,2,5.0,3.96,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+763230,61.8,1.0,650.0,3.0,2,4.0,10.02,Ząbki,blok,do wykończenia,,miejskie
+1100000,67.0,21.0,1200.0,3.0,1,9.0,8.17,Warszawa,apartamentowiec,do zamieszkania,,kotłownia
+1420000,62.0,74.0,1197.0,3.0,3,4.0,1.89,Warszawa,kamienica,do zamieszkania,,miejskie
+1950000,86.0,4.0,1491.0,4.0,1,6.0,4.55,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+953474,56.09,55.0,,3.0,1,2.0,6.65,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+775000,62.0,24.0,950.0,2.0,> 10,17.0,6.36,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+559900,41.47,1.0,450.0,2.0,1,4.0,10.02,Ząbki,blok,do wykończenia,,miejskie
+690000,59.0,13.0,580.0,2.0,parter,3.0,28.61,Nowy Dwór Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1888000,87.97,21.0,,3.0,6,6.0,5.79,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,54.68,14.0,700.0,2.0,2,3.0,21.95,Otwock,apartamentowiec,do zamieszkania,,gazowe
+1200000,81.96,6.0,1200.0,4.0,3,3.0,16.16,Pruszków,apartamentowiec,do zamieszkania,,miejskie
+939000,50.5,77.0,930.0,3.0,parter,3.0,2.06,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+900000,53.17,14.0,790.0,2.0,6,6.0,7.01,Warszawa,blok,do zamieszkania,,miejskie
+895000,64.42,44.0,1149.0,3.0,6,8.0,5.66,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1799000,100.0,3.0,,4.0,parter,6.0,5.48,Warszawa,blok,do zamieszkania,,miejskie
+1100000,50.0,10.0,600.0,3.0,5,6.0,4.05,Warszawa,apartamentowiec,do zamieszkania,,
+1490000,64.6,91.0,460.0,3.0,3,4.0,3.27,Warszawa,kamienica,do zamieszkania,,
+1149999,76.9,13.0,740.0,3.0,parter,3.0,11.37,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+540000,100.0,66.0,,5.0,2,2.0,92.45,Radom,kamienica,do remontu,plastikowe,gazowe
+2547000,118.54,7.0,1700.0,4.0,6,6.0,3.52,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+375000,60.04,47.0,,3.0,2,4.0,95.59,Radom,blok,,plastikowe,miejskie
+839000,73.53,4.0,640.0,3.0,3,4.0,87.2,Ostrów Mazowiecka,blok,do zamieszkania,plastikowe,miejskie
+889000,53.78,34.0,1002.0,2.0,4,4.0,4.82,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+450000,19.0,76.0,500.0,1.0,3,5.0,0.86,Warszawa,kamienica,do zamieszkania,,miejskie
+809000,67.0,52.0,500.0,5.0,2,4.0,7.03,Warszawa,blok,do remontu,plastikowe,miejskie
+809000,67.0,52.0,500.0,3.0,2,,7.03,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1299421,63.9,92.0,800.0,3.0,3,4.0,4.05,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+760000,24.0,67.0,430.0,1.0,6,6.0,1.19,Warszawa,kamienica,do remontu,,miejskie
+649000,28.0,5.0,,2.0,8,,3.26,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+865000,111.0,1.0,,5.0,1,2.0,14.9,Marki,blok,do wykończenia,plastikowe,inne
+749000,49.0,70.0,630.0,2.0,2,4.0,6.43,Warszawa,blok,do wykończenia,plastikowe,miejskie
+820000,54.85,0.0,900.0,2.0,1,2.0,12.93,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+1299999,96.4,26.0,,4.0,2,,10.09,Warszawa,blok,do zamieszkania,plastikowe,elektryczne
+1259000,79.0,5.0,800.0,3.0,1,3.0,14.49,Józefosław,blok,,plastikowe,miejskie
+799000,48.0,67.0,700.0,2.0,parter,4.0,3.74,Warszawa,blok,,plastikowe,miejskie
+580000,25.6,55.0,500.0,1.0,5,10.0,1.84,Warszawa,blok,,,miejskie
+1685000,94.17,2.0,980.0,4.0,3,4.0,7.44,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1030000,50.0,8.0,600.0,2.0,8,12.0,4.92,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+920000,63.3,50.0,1000.0,3.0,2,13.0,5.43,Warszawa,blok,do remontu,plastikowe,miejskie
+1745640,67.14,3.0,1450.0,4.0,1,8.0,5.22,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+535000,33.0,94.0,800.0,2.0,6,6.0,3.35,Warszawa,kamienica,do remontu,plastikowe,miejskie
+980000,47.0,88.0,990.0,1.0,1,5.0,0.96,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+615000,51.35,18.0,690.0,2.0,3,3.0,17.0,Piaseczno,blok,do zamieszkania,plastikowe,gazowe
+1499000,88.8,36.0,780.0,3.0,3,3.0,10.56,Warszawa,blok,do zamieszkania,,miejskie
+839000,59.0,77.0,900.0,2.0,2,3.0,2.05,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+755000,32.44,4.0,202.0,1.0,4,8.0,6.74,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+999900,68.15,76.0,374.0,2.0,,3.0,3.47,Warszawa,kamienica,do zamieszkania,,elektryczne
+499900,32.3,89.0,550.0,1.0,4,4.0,4.29,Warszawa,kamienica,do wykończenia,,miejskie
+3650000,146.2,11.0,1760.0,5.0,4,4.0,8.98,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+760000,35.24,4.0,212.0,2.0,7,12.0,6.74,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+896000,48.5,16.0,800.0,2.0,2,3.0,7.93,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+790000,62.99,13.0,949.0,3.0,1,6.0,15.56,Józefosław,blok,do zamieszkania,,miejskie
+799000,46.6,58.0,850.0,3.0,3,4.0,6.43,Warszawa,blok,do zamieszkania,,miejskie
+685000,37.7,48.0,605.0,2.0,9,10.0,2.43,Warszawa,blok,do zamieszkania,,miejskie
+1999000,104.08,5.0,1776.0,5.0,4,6.0,7.56,Warszawa,blok,do zamieszkania,,miejskie
+1980000,88.0,1.0,1000.0,4.0,1,5.0,5.86,Warszawa,blok,do zamieszkania,,miejskie
+950000,41.94,4.0,692.0,2.0,> 10,23.0,2.92,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1095000,80.36,23.0,1700.0,4.0,7,7.0,8.29,Warszawa,blok,do zamieszkania,,miejskie
+1061000,28.54,0.0,,1.0,6,8.0,0.88,Warszawa,apartamentowiec,do wykończenia,,miejskie
+1483200,41.2,0.0,,2.0,4,8.0,0.88,Warszawa,apartamentowiec,do wykończenia,,miejskie
+1810160,53.24,0.0,,3.0,2,8.0,0.88,Warszawa,apartamentowiec,do wykończenia,,miejskie
+4727160,131.31,0.0,,4.0,7,8.0,0.88,Warszawa,apartamentowiec,do wykończenia,,miejskie
+620000,58.1,51.0,1118.0,3.0,7,10.0,6.51,Warszawa,blok,do remontu,,miejskie
+609000,37.0,,650.0,2.0,4,,4.47,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1150000,97.5,30.0,1300.0,4.0,3,4.0,17.01,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+730000,35.0,94.0,650.0,2.0,parter,3.0,4.47,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+745000,47.0,61.0,800.0,2.0,2,3.0,4.47,Warszawa,blok,do remontu,plastikowe,miejskie
+1295000,77.65,13.0,1300.0,4.0,7,8.0,10.64,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+489000,29.1,58.0,550.0,2.0,1,7.0,4.47,Warszawa,blok,,plastikowe,miejskie
+390000,20.0,56.0,600.0,1.0,2,10.0,1.69,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+449000,19.6,58.0,850.0,1.0,6,6.0,0.19,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+670000,54.47,15.0,800.0,3.0,3,3.0,15.03,Pruszków,blok,do zamieszkania,plastikowe,gazowe
+695000,35.23,56.0,,2.0,4,10.0,4.67,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+673000,49.9,14.0,595.0,2.0,2,4.0,8.76,Warszawa,blok,do zamieszkania,,inne
+799700,61.0,1.0,650.0,3.0,2,7.0,28.33,Nowy Dwór Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1375000,73.67,10.0,1052.0,3.0,3,7.0,7.76,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+805200,36.6,19.0,676.0,2.0,3,6.0,4.3,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1493100,72.0,26.0,1100.0,3.0,3,8.0,2.03,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+684000,51.62,7.0,,2.0,2,5.0,9.75,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+659000,60.6,55.0,,3.0,4,10.0,7.71,Warszawa,blok,do wykończenia,plastikowe,miejskie
+610000,37.2,56.0,687.0,2.0,1,10.0,6.19,Warszawa,blok,do remontu,plastikowe,miejskie
+395000,45.0,,,2.0,3,4.0,39.12,Mińsk Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+3590000,135.69,,,5.0,1,2.0,5.78,Warszawa,blok,do zamieszkania,drewniane,
+800000,39.4,90.0,547.0,2.0,2,4.0,4.15,Warszawa,kamienica,do zamieszkania,,miejskie
+769000,78.0,26.0,800.0,3.0,3,3.0,91.38,Radom,blok,do zamieszkania,plastikowe,miejskie
+535000,33.5,60.0,,2.0,8,10.0,9.72,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1350000,62.25,3.0,396.0,3.0,8,12.0,6.78,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+579000,34.28,23.0,600.0,1.0,2,3.0,7.46,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1270000,72.4,9.0,980.0,4.0,4,7.0,6.32,Warszawa,apartamentowiec,do zamieszkania,plastikowe,elektryczne
+1199000,57.38,4.0,1000.0,3.0,2,3.0,6.83,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1995000,75.0,6.0,1100.0,3.0,3,5.0,7.44,Warszawa,apartamentowiec,do zamieszkania,drewniane,
+5490000,156.54,,,4.0,1,2.0,5.74,Warszawa,blok,do zamieszkania,drewniane,
+599000,27.4,54.0,650.0,1.0,> 10,15.0,0.58,Warszawa,blok,do remontu,,miejskie
+899000,30.0,57.0,480.0,2.0,6,8.0,0.43,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+820000,45.75,57.0,1100.0,3.0,parter,10.0,3.26,Warszawa,blok,do zamieszkania,,miejskie
+350000,60.0,136.0,300.0,2.0,2,,95.69,Płock,kamienica,do zamieszkania,plastikowe,inne
+690000,54.2,16.0,,3.0,1,8.0,15.64,Piaseczno,blok,do zamieszkania,plastikowe,miejskie
+1060000,51.0,7.0,650.0,3.0,5,5.0,7.97,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+459000,60.45,15.0,318.0,4.0,1,3.0,106.97,Mława,blok,do zamieszkania,plastikowe,gazowe
+639000,48.6,57.0,650.0,3.0,5,10.0,8.4,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1100000,56.0,113.0,,2.0,4,5.0,0.64,Warszawa,kamienica,,drewniane,miejskie
+499000,40.5,,750.0,2.0,parter,4.0,10.18,Ząbki,blok,,,
+1000000,50.0,67.0,980.0,2.0,3,4.0,4.31,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1050000,55.48,16.0,890.0,2.0,4,4.0,9.72,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1220000,53.0,15.0,950.0,2.0,2,7.0,1.0,Warszawa,apartamentowiec,do zamieszkania,drewniane,inne
+769000,44.0,40.0,680.0,3.0,7,10.0,3.79,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1160000,82.2,16.0,1300.0,3.0,1,4.0,9.95,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+799000,53.0,8.0,1000.0,2.0,3,3.0,5.39,Warszawa,blok,do zamieszkania,,miejskie
+650000,44.0,24.0,560.0,2.0,2,2.0,14.41,Józefosław,blok,do zamieszkania,plastikowe,elektryczne
+670000,48.31,46.0,680.0,2.0,parter,3.0,11.03,Warszawa,blok,do remontu,drewniane,miejskie
+599000,28.2,12.0,650.0,1.0,8,8.0,5.07,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1700000,95.0,73.0,540.0,4.0,4,4.0,3.98,Warszawa,kamienica,do zamieszkania,plastikowe,kotłownia
+1500000,55.5,66.0,750.0,2.0,parter,3.0,4.22,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+830000,60.0,3.0,640.0,3.0,3,3.0,23.58,Wieliszew,blok,do zamieszkania,plastikowe,kotłownia
+1199000,73.0,48.0,1200.0,4.0,5,10.0,6.54,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,60.56,,900.0,2.0,1,2.0,12.39,Warszawa,blok,do remontu,plastikowe,
+1450000,67.0,9.0,,5.0,1,3.0,2.72,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+499000,55.0,23.0,550.0,3.0,4,4.0,39.45,Mińsk Mazowiecki,blok,do zamieszkania,,miejskie
+840000,56.8,43.0,857.0,3.0,6,15.0,6.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1896000,75.75,,990.0,3.0,6,6.0,4.13,Warszawa,apartamentowiec,do zamieszkania,,
+1288000,73.0,6.0,1500.0,3.0,7,15.0,9.99,Warszawa,apartamentowiec,do zamieszkania,plastikowe,
+2800000,167.0,9.0,2000.0,6.0,8,1.0,6.27,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+799000,29.71,88.0,,2.0,1,2.0,3.52,Warszawa,kamienica,do wykończenia,drewniane,miejskie
+1367750,54.71,88.0,,2.0,2,2.0,3.73,Warszawa,kamienica,do wykończenia,drewniane,miejskie
+649999,42.0,91.0,,2.0,3,4.0,4.66,Warszawa,kamienica,do remontu,,miejskie
+899000,81.57,5.0,914.0,3.0,3,3.0,15.94,Łomianki Dolne,blok,do zamieszkania,,gazowe
+659900,49.13,58.0,818.0,3.0,1,4.0,8.22,Warszawa,blok,do remontu,plastikowe,miejskie
+790000,45.36,60.0,987.0,2.0,parter,6.0,1.1,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+2190000,101.52,,1700.0,4.0,3,4.0,9.31,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1450000,63.29,6.0,1060.0,3.0,3,6.0,5.96,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1535000,96.1,24.0,1200.0,4.0,3,8.0,5.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+879000,56.5,2.0,590.0,3.0,1,4.0,13.48,Warszawa,blok,do zamieszkania,,miejskie
+549900,37.0,51.0,655.0,2.0,8,10.0,7.57,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1810000,109.7,26.0,3200.0,3.0,3,11.0,7.89,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1370000,97.0,5.0,1500.0,1.0,3,3.0,14.06,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+3258000,108.6,22.0,2600.0,3.0,5,7.0,3.54,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+931200,48.0,6.0,700.0,2.0,5,5.0,5.89,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1455500,71.0,8.0,750.0,3.0,> 10,11.0,3.79,Warszawa,apartamentowiec,do wykończenia,drewniane,miejskie
+595000,78.6,26.0,,2.0,8,11.0,95.58,Płock,blok,do zamieszkania,,miejskie
+2190000,116.0,19.0,1800.0,4.0,3,7.0,4.59,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+830000,85.0,34.0,,4.0,3,3.0,28.0,Nowy Dwór Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+450000,32.2,66.0,593.0,1.0,4,4.0,5.67,Warszawa,kamienica,do remontu,drewniane,miejskie
+760000,45.23,,660.0,2.0,parter,2.0,22.53,Otwock,blok,do zamieszkania,plastikowe,gazowe
+760000,60.01,7.0,810.0,3.0,3,3.0,16.77,Sulejówek,blok,do zamieszkania,plastikowe,kotłownia
+510000,37.5,,100.0,2.0,2,2.0,6.55,Warszawa,kamienica,do zamieszkania,plastikowe,
+980000,62.5,37.0,,2.0,1,7.0,4.1,Warszawa,blok,do remontu,drewniane,miejskie
+549000,26.7,54.0,600.0,2.0,3,15.0,0.78,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+650000,57.51,,641.0,3.0,4,,0.32,Warszawa,kamienica,do remontu,drewniane,
+465000,48.7,,,3.0,4,4.0,30.48,Kazuń Nowy,blok,do zamieszkania,plastikowe,inne
+899000,63.6,36.0,1250.0,3.0,3,3.0,5.36,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,52.0,22.0,540.0,2.0,3,3.0,30.18,Grodzisk Mazowiecki,blok,do zamieszkania,plastikowe,gazowe
+910000,67.0,15.0,850.0,3.0,1,4.0,9.98,Ząbki,blok,do zamieszkania,plastikowe,miejskie
+940000,51.29,13.0,,2.0,,,4.83,Warszawa,blok,,plastikowe,
+1090000,35.4,64.0,800.0,1.0,3,5.0,1.34,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+484000,40.0,27.0,800.0,2.0,2,4.0,10.53,Marki,blok,do remontu,plastikowe,miejskie
+970000,43.0,17.0,550.0,2.0,4,10.0,3.32,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+895000,61.7,38.0,1270.0,4.0,parter,4.0,7.19,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+735000,44.77,11.0,991.0,2.0,2,3.0,7.2,Warszawa,blok,do zamieszkania,,
+478800,22.8,62.0,,1.0,4,9.0,2.08,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1870000,58.03,6.0,700.0,2.0,5,10.0,3.92,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1490000,65.0,96.0,460.0,3.0,3,4.0,3.27,Warszawa,kamienica,do zamieszkania,plastikowe,gazowe
+1450000,97.0,42.0,1580.0,5.0,3,3.0,4.51,Warszawa,blok,do remontu,,miejskie
+330000,36.0,47.0,600.0,2.0,2,4.0,94.11,Płock,blok,do zamieszkania,plastikowe,
+640000,43.0,19.0,650.0,2.0,2,3.0,12.14,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+2350000,116.42,2.0,1820.0,3.0,parter,4.0,11.98,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1149000,80.0,18.0,1400.0,3.0,2,4.0,8.01,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+847000,56.8,46.0,860.0,2.0,10,15.0,7.48,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+920000,51.5,71.0,980.0,2.0,4,7.0,0.73,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+429000,35.2,3.0,,2.0,4,5.0,10.14,Warszawa,blok,do wykończenia,plastikowe,
+1141635,61.71,8.0,830.0,3.0,2,4.0,8.51,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+700000,42.0,0.0,,2.0,3,,7.91,Warszawa,apartamentowiec,,,miejskie
+709000,42.0,58.0,700.0,2.0,6,12.0,1.43,Warszawa,blok,do remontu,plastikowe,miejskie
+1250000,83.1,49.0,1700.0,4.0,3,13.0,7.41,Warszawa,blok,do remontu,,
+1598000,67.0,18.0,1200.0,2.0,> 10,12.0,1.41,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+3290000,117.5,14.0,,4.0,2,5.0,0.87,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1295000,70.0,15.0,720.0,3.0,2,7.0,5.22,Warszawa,apartamentowiec,do wykończenia,drewniane,miejskie
+955000,33.2,4.0,432.0,1.0,1,16.0,1.11,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1850000,62.5,87.0,1215.0,3.0,3,4.0,0.76,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+3200000,245.0,17.0,1388.0,5.0,3,3.0,10.24,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,gazowe
+985000,30.54,1.0,,1.0,6,,0.65,Warszawa,apartamentowiec,do wykończenia,,miejskie
+1199000,77.85,11.0,1300.0,4.0,parter,2.0,9.6,Warszawa,apartamentowiec,do zamieszkania,drewniane,gazowe
+999000,43.18,73.0,815.0,2.0,2,4.0,0.76,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1200000,56.9,1.0,,3.0,3,5.0,6.87,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+799000,46.02,63.0,700.0,2.0,parter,3.0,4.61,Warszawa,blok,,plastikowe,miejskie
+610000,27.71,59.0,,1.0,8,15.0,0.42,Warszawa,blok,do zamieszkania,,miejskie
+1040000,49.6,7.0,900.0,3.0,parter,2.0,7.49,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+429000,30.9,,,1.0,4,11.0,19.12,Legionowo,blok,do zamieszkania,plastikowe,miejskie
+685000,34.3,63.0,650.0,2.0,parter,4.0,3.88,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1099000,67.7,39.0,,3.0,parter,4.0,6.77,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+614000,35.74,16.0,560.0,2.0,parter,8.0,5.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+880000,75.0,2.0,640.0,3.0,2,5.0,92.27,Radom,apartamentowiec,do zamieszkania,plastikowe,miejskie
+600000,50.29,9.0,,3.0,parter,5.0,23.89,Radzymin,blok,do zamieszkania,plastikowe,miejskie
+820000,50.5,44.0,,2.0,parter,8.0,8.89,Warszawa,blok,do zamieszkania,,miejskie
+755000,47.7,41.0,700.0,2.0,5,11.0,5.39,Warszawa,blok,do wykończenia,plastikowe,miejskie
+2600000,89.76,10.0,1800.0,4.0,1,5.0,1.97,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+999000,47.0,7.0,1050.0,3.0,2,8.0,3.67,Warszawa,blok,do zamieszkania,,miejskie
+939000,60.5,15.0,1050.0,3.0,parter,3.0,6.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+550000,42.5,56.0,700.0,2.0,9,9.0,6.28,Warszawa,blok,do remontu,plastikowe,miejskie
+1230000,58.88,7.0,1140.0,3.0,parter,7.0,5.7,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+2750000,164.7,25.0,2900.0,4.0,1,7.0,4.44,Warszawa,apartamentowiec,,,
+525000,39.0,28.0,800.0,2.0,parter,4.0,10.09,Ząbki,apartamentowiec,do remontu,plastikowe,gazowe
+699000,38.69,14.0,855.0,2.0,3,6.0,6.22,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+964000,55.26,6.0,,2.0,2,4.0,6.75,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2200000,42.25,1.0,1500.0,2.0,1,7.0,1.23,Warszawa,apartamentowiec,do wykończenia,drewniane,miejskie
+425000,37.38,56.0,586.0,2.0,3,3.0,12.86,Piastów,blok,do wykończenia,plastikowe,gazowe
+2700000,124.05,115.0,,5.0,5,6.0,0.84,Warszawa,kamienica,do zamieszkania,,
+309000,32.48,56.0,,1.0,1,2.0,86.84,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+1798500,79.33,4.0,1500.0,4.0,2,4.0,4.04,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+849000,59.3,45.0,1200.0,3.0,4,8.0,9.54,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+875000,35.39,1.0,600.0,2.0,1,3.0,4.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1125000,56.7,59.0,1055.0,3.0,6,10.0,1.43,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1228113,67.11,4.0,1000.0,4.0,2,3.0,8.7,Warszawa,blok,do wykończenia,,miejskie
+820000,42.5,-78.0,695.0,2.0,parter,5.0,8.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+750000,46.6,58.0,900.0,3.0,1,10.0,2.42,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+619000,71.51,16.0,667.0,3.0,7,8.0,89.68,Radom,blok,do zamieszkania,plastikowe,miejskie
+889000,45.2,60.0,,2.0,4,6.0,1.1,Warszawa,blok,do remontu,,miejskie
+1399000,75.5,26.0,1300.0,3.0,6,6.0,11.22,Warszawa,blok,do zamieszkania,,gazowe
+2150000,91.3,16.0,1200.0,4.0,2,10.0,9.9,Warszawa,blok,do zamieszkania,drewniane,miejskie
+899000,50.25,66.0,,2.0,1,3.0,3.8,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1659000,70.0,9.0,950.0,4.0,parter,7.0,4.46,Warszawa,blok,do zamieszkania,drewniane,miejskie
+440000,31.0,50.0,600.0,2.0,6,10.0,6.45,Warszawa,blok,do remontu,,miejskie
+699000,52.5,21.0,1182.0,3.0,3,3.0,9.53,Warszawa,blok,do zamieszkania,,gazowe
+11990000,271.0,5.0,4000.0,7.0,7,8.0,1.38,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+375000,59.66,,,3.0,4,4.0,103.11,Ostrołęka,blok,do zamieszkania,,miejskie
+795000,42.0,,,2.0,6,9.0,0.56,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+850000,47.23,68.0,530.0,3.0,5,7.0,1.3,Warszawa,blok,do wykończenia,,miejskie
+1440000,78.12,14.0,1200.0,3.0,4,6.0,6.44,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+659000,43.9,11.0,525.0,2.0,parter,4.0,27.86,Nowy Dwór Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+989000,52.56,18.0,760.0,2.0,1,5.0,6.29,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1149000,71.6,18.0,1175.0,3.0,4,7.0,7.71,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1280000,65.0,7.0,1000.0,3.0,5,6.0,5.25,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1349000,63.21,9.0,1500.0,3.0,1,7.0,4.9,Warszawa,apartamentowiec,,plastikowe,miejskie
+799000,26.9,57.0,325.0,1.0,> 10,25.0,0.48,Warszawa,blok,do zamieszkania,plastikowe,
+800000,48.07,64.0,903.0,2.0,3,6.0,2.7,Warszawa,blok,do remontu,,miejskie
+460000,37.2,66.0,560.0,2.0,parter,2.0,13.54,Zielonka,blok,do zamieszkania,plastikowe,miejskie
+1190000,64.81,20.0,1100.0,3.0,1,3.0,8.7,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+999000,51.0,,,3.0,parter,,6.94,Warszawa,blok,do zamieszkania,,miejskie
+807000,47.48,9.0,1000.0,2.0,3,7.0,9.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+3100000,117.9,25.0,,4.0,4,12.0,0.7,Warszawa,apartamentowiec,,,
+660000,23.0,70.0,550.0,1.0,5,5.0,1.76,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1892000,87.16,2.0,,4.0,2,5.0,5.07,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+989000,63.43,8.0,940.0,3.0,parter,5.0,8.73,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1380000,77.5,,1200.0,4.0,parter,7.0,2.3,Warszawa,kamienica,do remontu,drewniane,
+485000,63.0,,,3.0,3,4.0,43.09,Żyrardów,blok,do zamieszkania,plastikowe,miejskie
+995000,43.5,66.0,600.0,2.0,3,4.0,1.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+145000,42.27,76.0,850.0,2.0,1,3.0,94.01,Żychlin,kamienica,do wykończenia,plastikowe,miejskie
+1145000,60.5,25.0,1150.0,2.0,2,3.0,10.28,Warszawa,apartamentowiec,,plastikowe,miejskie
+525000,36.7,39.0,491.0,1.0,2,10.0,6.82,Warszawa,blok,do remontu,plastikowe,miejskie
+1250000,68.1,21.0,1100.0,3.0,parter,5.0,5.94,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1280000,80.0,43.0,1200.0,4.0,2,10.0,7.61,Warszawa,blok,,,
+1599000,66.49,76.0,1092.0,3.0,2,2.0,1.12,Warszawa,kamienica,,,miejskie
+989000,70.84,12.0,900.0,3.0,parter,4.0,17.21,Pruszków,apartamentowiec,do zamieszkania,plastikowe,miejskie
+815000,58.3,26.0,,4.0,1,10.0,11.99,Warszawa,blok,do zamieszkania,,
+565000,73.0,37.0,,4.0,3,4.0,32.41,Nowy Dwór Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+590000,46.9,20.0,,2.0,2,3.0,29.53,Grodzisk Mazowiecki,blok,do zamieszkania,,gazowe
+629000,29.0,75.0,635.0,1.0,4,5.0,4.0,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+849900,48.0,60.0,,3.0,2,8.0,0.38,Warszawa,blok,do remontu,,miejskie
+899000,64.0,47.0,1300.0,4.0,5,12.0,6.64,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,26.02,5.0,650.0,1.0,4,5.0,3.37,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1245000,76.52,1.0,,4.0,1,2.0,14.52,Pruszków,blok,do zamieszkania,,miejskie
+1190000,74.2,19.0,1450.0,3.0,parter,5.0,10.08,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1190000,78.0,51.0,1150.0,4.0,2,10.0,5.64,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1100000,62.0,11.0,800.0,3.0,4,5.0,8.21,Warszawa,blok,do zamieszkania,,gazowe
+657998,64.77,43.0,1100.0,3.0,7,7.0,16.82,Piaseczno,blok,do remontu,plastikowe,miejskie
+999000,62.0,6.0,890.0,3.0,2,4.0,8.34,Warszawa,apartamentowiec,do zamieszkania,,gazowe
+570000,36.0,13.0,,1.0,2,5.0,8.15,Warszawa,blok,do zamieszkania,,miejskie
+999000,60.0,11.0,770.0,3.0,5,8.0,7.98,Warszawa,blok,do zamieszkania,,miejskie
+620000,53.0,45.0,1050.0,3.0,3,3.0,18.34,Legionowo,blok,do zamieszkania,,
+999000,61.89,6.0,890.0,3.0,2,4.0,8.36,Warszawa,apartamentowiec,do zamieszkania,,gazowe
+645000,35.0,88.0,,2.0,1,4.0,2.71,Warszawa,kamienica,do zamieszkania,,miejskie
+950000,44.0,71.0,930.0,2.0,1,3.0,3.51,Warszawa,blok,do zamieszkania,,miejskie
+525000,38.9,56.0,498.0,2.0,3,4.0,9.95,Ząbki,blok,do zamieszkania,,miejskie
+599000,37.53,96.0,,2.0,1,2.0,12.69,Piastów,kamienica,,plastikowe,gazowe
+1928000,107.12,14.0,1550.0,5.0,1,5.0,7.93,Warszawa,blok,do zamieszkania,drewniane,miejskie
+999000,72.53,6.0,1100.0,4.0,4,4.0,8.69,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+749980,66.9,38.0,1437.0,3.0,4,4.0,6.34,Warszawa,blok,do remontu,plastikowe,miejskie
+1350000,50.2,,635.0,2.0,4,5.0,0.94,Warszawa,blok,,plastikowe,miejskie
+769000,56.0,111.0,750.0,2.0,4,4.0,2.39,Warszawa,kamienica,do remontu,plastikowe,miejskie
+3700000,126.0,14.0,,3.0,7,7.0,1.31,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+765000,34.0,3.0,550.0,1.0,1,8.0,5.54,Warszawa,blok,do zamieszkania,,miejskie
+790000,55.54,10.0,670.0,3.0,5,11.0,17.04,Piaseczno,blok,do zamieszkania,plastikowe,miejskie
+450000,38.65,3.0,,2.0,parter,,37.66,Mińsk Mazowiecki,blok,do wykończenia,,
+2550000,103.0,14.0,1600.0,3.0,1,3.0,4.74,Warszawa,apartamentowiec,do zamieszkania,plastikowe,
+949000,58.0,61.0,800.0,2.0,parter,10.0,3.86,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+559000,47.5,19.0,800.0,2.0,3,3.0,27.58,Grodzisk Mazowiecki,blok,do zamieszkania,plastikowe,miejskie
+1125000,76.0,46.0,800.0,3.0,1,3.0,4.94,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1600000,76.44,12.0,1100.0,3.0,parter,2.0,11.08,Warszawa,apartamentowiec,do zamieszkania,drewniane,kotłownia
+2050000,145.58,26.0,,5.0,5,6.0,2.58,Warszawa,blok,,plastikowe,miejskie
+1080100,47.0,70.0,890.0,2.0,3,4.0,1.93,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+780000,54.0,7.0,,3.0,2,3.0,38.17,Mińsk Mazowiecki,blok,,,miejskie
+2822000,122.71,21.0,1880.0,4.0,2,4.0,4.29,Warszawa,apartamentowiec,,,miejskie
+850000,61.5,69.0,1000.0,4.0,2,4.0,5.94,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+747000,57.5,61.0,1000.0,3.0,4,4.0,4.12,Warszawa,blok,do zamieszkania,,
+850000,61.5,69.0,1000.0,4.0,2,4.0,5.94,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+720000,55.0,24.0,519.0,3.0,3,3.0,11.7,Warszawa,blok,,,
+439000,32.19,59.0,,2.0,parter,10.0,9.6,Warszawa,blok,do remontu,,miejskie
+1850000,67.57,1.0,1500.0,3.0,3,9.0,5.48,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+850000,59.6,31.0,895.0,3.0,parter,3.0,6.08,Warszawa,blok,,,miejskie
+669000,38.3,24.0,,2.0,7,8.0,4.37,Warszawa,blok,do zamieszkania,,miejskie
+998000,43.0,10.0,1175.0,2.0,4,7.0,6.18,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+500000,42.1,46.0,,2.0,> 10,11.0,18.51,Legionowo,blok,do zamieszkania,,miejskie
+630000,35.0,24.0,,1.0,3,8.0,3.98,Warszawa,blok,do zamieszkania,,miejskie
+1030000,49.06,11.0,531.0,2.0,1,6.0,4.65,Warszawa,blok,do zamieszkania,,
+435000,48.0,57.0,,3.0,2,4.0,18.55,Legionowo,blok,do remontu,,miejskie
+968000,60.5,,,3.0,> 10,20.0,6.03,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+450000,46.25,,600.0,3.0,3,4.0,19.72,Legionowo,blok,do remontu,plastikowe,miejskie
+1125000,84.81,49.0,1000.0,4.0,parter,12.0,7.93,Warszawa,blok,do remontu,plastikowe,miejskie
+620000,55.4,13.0,720.0,3.0,2,4.0,14.51,Warszawa,blok,do remontu,plastikowe,inne
+1490000,54.5,12.0,800.0,3.0,6,6.0,3.59,Warszawa,blok,do zamieszkania,drewniane,miejskie
+935000,56.25,17.0,900.0,2.0,parter,4.0,8.93,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1800000,90.3,26.0,153179.0,4.0,2,2.0,4.07,Warszawa,blok,,plastikowe,
+649000,57.2,17.0,650.0,2.0,1,4.0,9.74,Ząbki,blok,do zamieszkania,plastikowe,inne
+865000,73.0,15.0,,3.0,1,3.0,22.22,Otwock,blok,do zamieszkania,plastikowe,gazowe
+580000,39.35,0.0,,2.0,3,4.0,6.39,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+699000,29.31,1.0,,1.0,2,,4.33,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+719000,40.0,24.0,,2.0,8,11.0,6.49,Warszawa,blok,,,
+1240000,69.1,11.0,1050.0,3.0,8,8.0,7.67,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1160000,101.2,26.0,1300.0,4.0,3,4.0,9.86,Warszawa,blok,do zamieszkania,,miejskie
+1199000,52.19,2.0,750.0,2.0,4,4.0,4.02,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+835000,78.67,8.0,750.0,3.0,2,2.0,15.41,Nowa Wola,blok,do zamieszkania,plastikowe,gazowe
+559000,52.29,,,2.0,3,3.0,24.63,Wieliszew,blok,,plastikowe,gazowe
+708000,47.7,46.0,700.0,2.0,10,10.0,9.31,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+655000,38.45,0.0,650.0,2.0,1,3.0,8.11,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+1480000,66.1,13.0,1492.0,2.0,3,3.0,8.2,Warszawa,apartamentowiec,,,miejskie
+640000,38.45,1.0,650.0,2.0,parter,3.0,7.25,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+659000,53.0,51.0,874.0,3.0,10,10.0,6.68,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+810000,47.5,20.0,1167.0,2.0,parter,5.0,5.65,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+590000,39.02,1.0,,2.0,6,6.0,6.48,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+899999,70.76,11.0,850.0,3.0,2,4.0,10.31,Ząbki,blok,do zamieszkania,plastikowe,inne
+660000,39.81,1.0,,2.0,3,4.0,5.15,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+2950000,136.86,19.0,2200.0,4.0,2,3.0,9.15,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1599000,103.6,26.0,1700.0,3.0,5,8.0,5.66,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+645000,42.95,1.0,,2.0,4,6.0,6.47,Warszawa,apartamentowiec,do wykończenia,plastikowe,miejskie
+595000,57.0,21.0,600.0,2.0,1,3.0,9.88,Ząbki,blok,do wykończenia,plastikowe,gazowe
+920000,78.69,17.0,982.0,3.0,6,16.0,17.2,Piaseczno,apartamentowiec,do zamieszkania,plastikowe,kotłownia
+1299000,65.61,7.0,1000.0,3.0,3,6.0,6.76,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1115000,38.0,59.0,660.0,2.0,7,15.0,0.27,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+845000,45.88,2.0,,2.0,2,4.0,9.95,Warszawa,apartamentowiec,do wykończenia,drewniane,miejskie
+949000,83.4,6.0,450.0,4.0,2,2.0,13.24,Marki,apartamentowiec,do zamieszkania,plastikowe,gazowe
+649000,49.0,26.0,660.0,2.0,parter,4.0,4.95,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+3000000,99.0,91.0,860.0,3.0,2,3.0,6.81,Warszawa,kamienica,,drewniane,gazowe
+3363000,125.0,9.0,1360.0,4.0,2,3.0,5.99,Warszawa,apartamentowiec,do remontu,drewniane,gazowe
+1080000,61.75,2.0,,3.0,1,4.0,7.09,Warszawa,blok,do zamieszkania,,
+12900000,169.0,9.0,,3.0,> 10,52.0,0.24,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+460000,42.75,22.0,450.0,2.0,1,2.0,87.8,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+669000,46.4,50.0,950.0,2.0,8,10.0,8.08,Warszawa,blok,,plastikowe,miejskie
+2690000,97.2,22.0,1950.0,3.0,5,10.0,0.74,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+587000,41.5,51.0,740.0,2.0,1,11.0,7.72,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+629000,46.5,52.0,820.0,2.0,1,10.0,7.34,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2995000,114.43,1.0,1500.0,4.0,2,3.0,4.85,Warszawa,apartamentowiec,do wykończenia,,miejskie
+930000,41.7,19.0,800.0,2.0,4,16.0,2.95,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+645000,48.39,57.0,490.0,3.0,2,9.0,3.97,Warszawa,blok,do remontu,plastikowe,miejskie
+679000,69.66,12.0,850.0,3.0,3,5.0,76.14,Ciechanów,blok,do zamieszkania,plastikowe,miejskie
+915000,58.36,12.0,875.0,2.0,parter,3.0,8.21,Warszawa,blok,do zamieszkania,drewniane,miejskie
+415000,30.0,2.0,500.0,1.0,parter,3.0,24.51,Wieliszew,blok,do zamieszkania,plastikowe,miejskie
+350000,47.65,67.0,673.0,2.0,1,4.0,92.2,Radom,blok,do remontu,,miejskie
+609000,43.3,42.0,600.0,2.0,6,15.0,5.87,Warszawa,blok,,,
+649000,37.18,65.0,808.0,1.0,1,3.0,3.77,Warszawa,blok,do remontu,plastikowe,miejskie
+659000,53.7,23.0,1200.0,2.0,2,3.0,10.47,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+339000,63.73,32.0,450.0,2.0,5,5.0,93.25,Radom,blok,do remontu,,
+360000,47.99,36.0,550.0,2.0,1,4.0,91.31,Radom,blok,do remontu,,miejskie
+750000,60.0,15.0,600.0,4.0,1,3.0,15.63,Marki,blok,do zamieszkania,plastikowe,gazowe
+1415000,70.7,25.0,1050.0,3.0,1,6.0,10.74,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1598000,57.7,,900.0,3.0,2,3.0,2.93,Warszawa,kamienica,do zamieszkania,,miejskie
+339000,40.57,66.0,405.0,1.0,3,3.0,93.1,Radom,blok,,,inne
+999000,42.49,3.0,,2.0,parter,7.0,5.23,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+620000,32.1,106.0,600.0,1.0,1,4.0,3.76,Warszawa,kamienica,do zamieszkania,,miejskie
+833000,49.0,58.0,,3.0,6,10.0,4.28,Warszawa,blok,do zamieszkania,plastikowe,inne
+420000,59.39,,700.0,2.0,3,3.0,86.86,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+570000,31.0,,540.0,1.0,8,13.0,3.04,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+309000,47.84,65.0,604.0,2.0,2,3.0,93.64,Radom,blok,do zamieszkania,,miejskie
+1165000,63.08,8.0,1150.0,3.0,3,6.0,6.2,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+499000,51.5,4.0,539.0,2.0,3,4.0,91.56,Radom,apartamentowiec,do zamieszkania,plastikowe,miejskie
+518000,45.5,,610.0,2.0,3,4.0,30.32,Tarczyn,blok,do zamieszkania,plastikowe,miejskie
+690000,36.0,26.0,600.0,2.0,parter,4.0,9.22,Warszawa,apartamentowiec,do zamieszkania,drewniane,kotłownia
+1263297,97.93,15.0,900.0,4.0,parter,6.0,6.78,Warszawa,blok,,plastikowe,miejskie
+2100000,77.18,8.0,,3.0,1,4.0,4.52,Warszawa,apartamentowiec,do zamieszkania,drewniane,
+770000,34.0,25.0,597.0,1.0,1,6.0,10.37,Warszawa,blok,do zamieszkania,drewniane,miejskie
+735000,33.71,9.0,350.0,1.0,2,10.0,5.55,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+849000,36.0,62.0,800.0,2.0,1,12.0,0.43,Warszawa,blok,,plastikowe,miejskie
+1699000,100.0,14.0,1513.0,4.0,4,4.0,11.29,Warszawa,apartamentowiec,,,miejskie
+569000,38.0,58.0,530.0,2.0,parter,4.0,7.43,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699000,54.6,19.0,619.0,2.0,1,3.0,9.85,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+1190000,54.21,2.0,760.0,3.0,3,3.0,7.43,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1130000,78.97,25.0,1700.0,4.0,1,4.0,6.59,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+690000,40.88,1.0,,2.0,3,3.0,14.83,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,
+530000,37.9,27.0,,1.0,1,4.0,17.1,Pruszków,blok,do zamieszkania,,miejskie
+958000,59.9,24.0,,2.0,4,,7.33,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+399000,45.0,,360.0,2.0,2,2.0,91.6,Radom,blok,do zamieszkania,plastikowe,
+1880000,114.0,27.0,2000.0,4.0,3,3.0,4.76,Warszawa,blok,do zamieszkania,plastikowe,gazowe
+870000,60.53,7.0,800.0,3.0,2,3.0,14.95,Ożarów Mazowiecki,blok,do zamieszkania,plastikowe,gazowe
+560000,35.1,76.0,600.0,1.0,parter,2.0,1.58,Warszawa,kamienica,do remontu,plastikowe,miejskie
+699000,56.72,46.0,970.0,2.0,7,15.0,7.34,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1090000,53.16,12.0,770.0,2.0,parter,4.0,9.33,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+797000,50.56,20.0,,2.0,1,7.0,5.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1399000,60.0,14.0,1200.0,2.0,1,6.0,2.12,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1080000,58.85,22.0,1200.0,2.0,8,8.0,11.1,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+730000,47.51,52.0,895.0,2.0,9,11.0,2.04,Warszawa,blok,do remontu,plastikowe,miejskie
+770000,42.5,26.0,600.0,2.0,1,2.0,4.62,Warszawa,blok,do zamieszkania,drewniane,gazowe
+950000,54.8,16.0,960.0,2.0,> 10,14.0,6.75,Warszawa,blok,do zamieszkania,drewniane,miejskie
+630000,58.8,63.0,700.0,3.0,1,3.0,22.63,Otwock,blok,do zamieszkania,plastikowe,miejskie
+1850000,97.5,10.0,1800.0,4.0,1,5.0,6.76,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1990000,171.66,9.0,1500.0,4.0,4,4.0,92.39,Radom,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1050000,138.0,22.0,,4.0,2,2.0,14.78,Józefosław,blok,do zamieszkania,drewniane,gazowe
+930000,52.25,,840.0,2.0,2,3.0,4.37,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1349900,48.0,1.0,,2.0,6,6.0,2.2,Warszawa,apartamentowiec,,,miejskie
+660000,30.32,69.0,770.0,1.0,5,5.0,1.32,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,37.0,66.0,600.0,2.0,3,6.0,4.02,Warszawa,blok,do wykończenia,,miejskie
+660000,37.0,64.0,730.0,2.0,3,9.0,3.56,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+669900,60.9,20.0,,3.0,parter,7.0,17.1,Piaseczno,blok,do zamieszkania,plastikowe,gazowe
+799000,53.9,7.0,800.0,4.0,parter,4.0,16.65,Stara Iwiczna,blok,do zamieszkania,,kotłownia
+799000,54.5,15.0,800.0,2.0,2,4.0,8.07,Warszawa,blok,do zamieszkania,,kotłownia
+725000,37.0,63.0,770.0,2.0,3,8.0,2.07,Warszawa,blok,,plastikowe,miejskie
+940000,63.3,49.0,1380.0,6.0,3,4.0,7.76,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+480000,35.98,46.0,700.0,2.0,3,,15.19,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+849000,70.0,46.0,900.0,3.0,4,12.0,6.37,Warszawa,blok,do zamieszkania,,miejskie
+1250000,69.0,35.0,1180.0,3.0,6,10.0,5.75,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1190000,73.3,36.0,1000.0,3.0,4,4.0,4.45,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+399000,30.0,54.0,650.0,1.0,9,10.0,6.35,Warszawa,blok,do remontu,plastikowe,miejskie
+2590000,101.35,90.0,,3.0,2,3.0,1.62,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+745000,33.1,11.0,450.0,2.0,parter,7.0,2.66,Warszawa,apartamentowiec,do zamieszkania,drewniane,kotłownia
+409000,72.9,26.0,773.0,3.0,2,3.0,105.46,Mława,blok,do zamieszkania,plastikowe,kotłownia
+279000,61.3,46.0,876.0,3.0,4,4.0,108.04,Mława,blok,do remontu,plastikowe,miejskie
+660000,30.0,59.0,600.0,1.0,4,7.0,2.13,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+950000,37.5,,300.0,2.0,5,8.0,2.07,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+842000,64.0,36.0,800.0,3.0,parter,4.0,17.24,Konstancin-Jeziorna,blok,do zamieszkania,plastikowe,miejskie
+1139000,32.21,6.0,750.0,2.0,3,13.0,1.03,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+599000,82.0,42.0,600.0,4.0,3,4.0,89.67,Radom,blok,do zamieszkania,plastikowe,miejskie
+1435000,82.0,20.0,,3.0,2,4.0,8.99,Warszawa,apartamentowiec,,,
+1390000,76.48,12.0,1112.0,4.0,9,10.0,7.08,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+595000,69.2,35.0,850.0,3.0,parter,3.0,91.66,Płock,blok,do zamieszkania,plastikowe,miejskie
+2695000,71.0,1.0,1065.0,3.0,9,9.0,1.69,Warszawa,apartamentowiec,do zamieszkania,drewniane,
+1390000,71.0,54.0,1400.0,4.0,5,7.0,2.81,Warszawa,blok,do wykończenia,plastikowe,miejskie
+630000,29.0,,700.0,1.0,3,10.0,6.79,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+719000,46.8,49.0,960.0,2.0,3,3.0,7.92,Warszawa,blok,do remontu,plastikowe,miejskie
+589000,40.7,21.0,600.0,2.0,3,7.0,10.51,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+820000,49.95,3.0,834.0,2.0,1,7.0,6.12,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1900000,92.1,21.0,1600.0,3.0,2,3.0,4.58,Warszawa,apartamentowiec,do zamieszkania,,
+1585000,61.0,66.0,850.0,3.0,3,5.0,0.63,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+699000,58.4,54.0,900.0,3.0,7,12.0,7.95,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+579000,26.4,63.0,400.0,1.0,9,9.0,2.11,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1599000,77.0,76.0,1100.0,3.0,1,2.0,1.45,Warszawa,kamienica,do remontu,plastikowe,miejskie
+1299000,83.5,41.0,1350.0,3.0,10,13.0,5.45,Warszawa,blok,do zamieszkania,drewniane,miejskie
+429000,24.0,8.0,800.0,1.0,2,4.0,7.55,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+750000,42.79,10.0,650.0,2.0,2,3.0,7.31,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+928000,38.21,10.0,750.0,2.0,3,7.0,1.93,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+879000,53.8,60.0,650.0,2.0,parter,3.0,4.76,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+540000,72.0,37.0,1000.0,4.0,parter,10.0,87.8,Siedlce,blok,,plastikowe,
+1420000,50.0,2.0,1100.0,3.0,1,5.0,25.65,Zegrze,blok,do zamieszkania,plastikowe,miejskie
+3641166,92.61,19.0,1400.0,3.0,1,5.0,3.13,Warszawa,apartamentowiec,do zamieszkania,,
+1100000,66.0,33.0,1045.0,3.0,4,9.0,3.09,Warszawa,blok,do zamieszkania,,miejskie
+1399000,60.0,9.0,920.0,3.0,3,5.0,5.18,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+620000,74.0,41.0,1200.0,4.0,1,3.0,38.17,Mińsk Mazowiecki,blok,do wykończenia,,miejskie
+530700,36.6,50.0,580.0,2.0,parter,10.0,4.32,Warszawa,blok,do remontu,plastikowe,miejskie
+610000,46.0,46.0,912.0,2.0,4,4.0,7.98,Warszawa,blok,,plastikowe,inne
+1190000,65.16,27.0,1068.0,3.0,2,3.0,4.76,Warszawa,blok,,plastikowe,inne
+780000,44.0,10.0,900.0,2.0,parter,3.0,7.28,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1417710,65.94,9.0,,3.0,1,,4.58,Warszawa,blok,do zamieszkania,drewniane,miejskie
+3551360,198.4,30.0,4565.0,5.0,3,6.0,7.35,Warszawa,blok,do zamieszkania,drewniane,miejskie
+647999,48.0,12.0,700.0,2.0,1,4.0,10.33,Ząbki,apartamentowiec,do zamieszkania,plastikowe,
+1690000,80.0,16.0,2000.0,3.0,3,4.0,9.55,Warszawa,blok,do zamieszkania,drewniane,miejskie
+889000,81.1,24.0,1150.0,3.0,3,3.0,12.0,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+778000,87.9,,1100.0,4.0,2,3.0,18.74,Legionowo,blok,do remontu,plastikowe,gazowe
+1287000,67.8,16.0,980.0,3.0,1,5.0,5.12,Warszawa,blok,do zamieszkania,drewniane,miejskie
+528061,36.85,1.0,,2.0,parter,4.0,10.07,Warszawa,blok,do wykończenia,plastikowe,miejskie
+590000,30.0,70.0,500.0,1.0,3,4.0,3.53,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+929000,68.0,48.0,,4.0,1,10.0,7.17,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+699970,63.93,34.0,800.0,4.0,1,4.0,21.48,Wołomin,blok,do zamieszkania,plastikowe,miejskie
+620000,32.45,60.0,590.0,2.0,7,7.0,6.3,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+660000,45.72,1.0,,3.0,3,,42.02,Teresin,blok,do zamieszkania,,gazowe
+940000,62.0,26.0,1200.0,4.0,2,4.0,10.1,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2750000,164.0,26.0,3000.0,4.0,> 10,12.0,1.27,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1118000,69.88,4.0,1000.0,3.0,2,4.0,10.39,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1399000,67.0,7.0,1250.0,3.0,4,4.0,7.61,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+479000,40.5,71.0,600.0,2.0,3,3.0,8.67,Warszawa,kamienica,do remontu,plastikowe,miejskie
+2800000,122.0,99.0,1800.0,4.0,4,4.0,3.16,Warszawa,kamienica,do zamieszkania,drewniane,inne
+2499000,99.3,126.0,1980.0,4.0,3,4.0,1.32,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+699000,49.96,4.0,650.0,3.0,parter,3.0,8.79,Warszawa,blok,do wykończenia,plastikowe,miejskie
+1704000,80.0,16.0,1100.0,3.0,parter,5.0,6.72,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1050000,44.0,18.0,600.0,2.0,5,5.0,2.83,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1077000,66.2,28.0,1000.0,2.0,1,3.0,7.78,Warszawa,blok,do zamieszkania,drewniane,miejskie
+2499999,83.65,13.0,1650.0,3.0,5,8.0,1.5,Warszawa,apartamentowiec,,,miejskie
+485000,30.88,,680.0,1.0,4,5.0,6.54,Warszawa,blok,do remontu,,miejskie
+495000,20.9,7.0,780.0,1.0,4,10.0,3.4,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+795000,36.2,21.0,1000.0,1.0,> 10,30.0,1.23,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+796000,48.3,62.0,800.0,2.0,1,4.0,2.52,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2190000,104.07,17.0,2005.0,3.0,2,3.0,9.25,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+579000,27.0,66.0,450.0,1.0,1,3.0,4.18,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+670000,44.0,66.0,750.0,2.0,4,4.0,3.61,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2469000,82.55,14.0,1611.0,3.0,4,6.0,0.93,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1290000,46.22,88.0,960.0,2.0,4,5.0,2.22,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+1455000,55.26,2.0,800.0,2.0,2,5.0,4.28,Warszawa,blok,do zamieszkania,,miejskie
+7550000,207.0,3.0,2500.0,4.0,4,4.0,3.91,Warszawa,apartamentowiec,do wykończenia,drewniane,miejskie
+960000,63.6,52.0,1400.0,4.0,8,10.0,6.65,Warszawa,blok,do zamieszkania,,miejskie
+629000,41.5,51.0,545.0,2.0,5,10.0,7.08,Warszawa,blok,do zamieszkania,,miejskie
+4431900,134.3,,,3.0,4,4.0,1.51,Warszawa,kamienica,,,gazowe
+479000,21.0,91.0,600.0,1.0,4,4.0,1.88,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+4790000,186.0,114.0,1450.0,5.0,2,6.0,1.16,Warszawa,kamienica,do remontu,,miejskie
+1990000,88.72,9.0,1200.0,4.0,1,4.0,4.15,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+570000,44.2,25.0,800.0,2.0,6,10.0,12.1,Warszawa,blok,do remontu,drewniane,inne
+840000,59.7,43.0,1000.0,2.0,parter,10.0,5.5,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+850000,64.0,51.0,1300.0,4.0,parter,4.0,7.08,Warszawa,blok,do remontu,plastikowe,miejskie
+655000,37.0,19.0,820.0,2.0,4,10.0,4.99,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+700000,25.8,77.0,400.0,1.0,2,3.0,1.81,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+580000,25.22,88.0,464.0,1.0,1,3.0,2.95,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1352260,74.3,31.0,1820.0,3.0,2,6.0,2.52,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+430000,37.0,,,1.0,parter,2.0,25.04,Milanówek,kamienica,do wykończenia,plastikowe,kotłownia
+523000,43.95,56.0,,2.0,parter,1.0,26.5,Milanówek,kamienica,do wykończenia,plastikowe,kotłownia
+630000,38.93,49.0,820.0,2.0,parter,4.0,6.36,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+925000,44.97,4.0,890.0,2.0,parter,5.0,7.08,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1599000,71.22,9.0,800.0,3.0,2,6.0,4.03,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1549000,81.41,1.0,,4.0,1,4.0,5.28,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1222000,66.96,18.0,,3.0,1,4.0,9.15,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+587000,64.75,26.0,690.0,3.0,1,4.0,96.84,Radom,blok,do zamieszkania,plastikowe,miejskie
+570000,46.27,16.0,500.0,2.0,1,3.0,51.19,Wyszków,blok,do zamieszkania,plastikowe,miejskie
+1065000,54.0,19.0,,2.0,1,4.0,9.28,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+600000,36.0,57.0,,2.0,3,12.0,4.6,Warszawa,blok,do remontu,plastikowe,miejskie
+1949000,65.0,7.0,1000.0,3.0,> 10,16.0,2.56,Warszawa,blok,do zamieszkania,drewniane,miejskie
+790000,55.0,11.0,780.0,3.0,parter,2.0,9.48,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+4150000,134.0,,2000.0,4.0,4,4.0,9.42,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+4128000,129.0,90.0,1500.0,4.0,2,5.0,1.62,Warszawa,kamienica,do zamieszkania,,miejskie
+1025000,45.65,10.0,810.0,2.0,1,5.0,3.97,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1190000,47.24,3.0,1200.0,3.0,3,5.0,4.42,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+2150000,91.0,26.0,1300.0,3.0,1,6.0,5.19,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+549000,23.0,92.0,450.0,1.0,2,4.0,3.19,Warszawa,kamienica,,,miejskie
+899990,90.13,4.0,1000.0,4.0,1,3.0,24.01,Radzymin,blok,do zamieszkania,,miejskie
+1345000,46.66,17.0,1.0,2.0,10,17.0,1.32,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+645000,47.9,25.0,,3.0,1,4.0,12.88,Piastów,blok,do zamieszkania,,miejskie
+390000,23.0,9.0,350.0,1.0,1,8.0,4.34,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+655000,45.6,64.0,,2.0,parter,6.0,4.79,Warszawa,blok,do zamieszkania,,miejskie
+1220000,71.0,13.0,1430.0,3.0,3,3.0,5.77,Warszawa,blok,do zamieszkania,,miejskie
+894000,67.0,18.0,700.0,3.0,parter,3.0,12.46,Warszawa,apartamentowiec,do zamieszkania,,gazowe
+1297000,35.9,1.0,,1.0,> 10,28.0,1.58,Warszawa,apartamentowiec,do zamieszkania,aluminiowe,miejskie
+620000,34.65,5.0,670.0,1.0,5,5.0,5.39,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+555000,48.25,20.0,600.0,2.0,parter,,37.42,Mińsk Mazowiecki,blok,do zamieszkania,drewniane,gazowe
+1190000,44.71,41.0,700.0,2.0,3,,3.11,Warszawa,blok,do zamieszkania,,
+600000,44.0,21.0,800.0,2.0,4,6.0,8.39,Warszawa,blok,do wykończenia,plastikowe,miejskie
+829000,74.0,23.0,668.0,3.0,1,2.0,12.41,Warszawa,blok,do zamieszkania,drewniane,kotłownia
+560000,53.3,51.0,,3.0,parter,3.0,29.83,Grodzisk Mazowiecki,blok,do remontu,plastikowe,miejskie
+750000,54.05,17.0,1200.0,2.0,2,3.0,15.46,Józefosław,blok,do zamieszkania,plastikowe,kotłownia
+793400,58.1,68.0,1112.0,3.0,4,4.0,5.16,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+440000,50.9,72.0,600.0,2.0,2,,14.15,Ożarów Mazowiecki,blok,do remontu,plastikowe,kotłownia
+1380000,42.21,4.0,560.0,2.0,10,16.0,1.11,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+915000,58.86,92.0,,2.0,4,4.0,3.57,Warszawa,kamienica,do zamieszkania,,gazowe
+568000,42.5,46.0,1200.0,2.0,10,10.0,6.1,Warszawa,blok,do zamieszkania,,miejskie
+830000,38.0,8.0,,2.0,4,6.0,3.14,Warszawa,blok,do zamieszkania,drewniane,miejskie
+499000,38.0,56.0,640.0,2.0,parter,7.0,4.89,Warszawa,blok,,drewniane,miejskie
+499000,36.27,1.0,,2.0,2,2.0,13.12,Warszawa,blok,do wykończenia,plastikowe,inne
+1490000,52.0,16.0,1300.0,2.0,> 10,22.0,1.26,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+640000,42.2,,,2.0,9,10.0,6.47,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+719000,37.6,10.0,750.0,2.0,10,10.0,4.85,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+3623620,139.37,89.0,3400.0,4.0,2,2.0,3.73,Warszawa,kamienica,do wykończenia,,miejskie
+655000,56.0,16.0,700.0,2.0,parter,3.0,13.15,Warszawa,blok,,plastikowe,miejskie
+2332460,89.71,89.0,2200.0,4.0,2,2.0,3.73,Warszawa,kamienica,do wykończenia,drewniane,miejskie
+1550000,52.0,22.0,900.0,2.0,6,6.0,2.88,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+990000,62.0,8.0,1200.0,3.0,2,2.0,11.42,Marki,blok,do zamieszkania,plastikowe,inne
+826000,63.57,7.0,894.0,3.0,2,4.0,11.87,Warszawa,blok,do zamieszkania,plastikowe,kotłownia
+830000,29.47,1.0,550.0,1.0,1,6.0,5.77,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+279000,37.9,23.0,170.0,1.0,2,2.0,86.1,Sokołów Podlaski,blok,do zamieszkania,plastikowe,gazowe
+529000,38.0,51.0,620.0,2.0,5,10.0,4.71,Warszawa,blok,do remontu,plastikowe,miejskie
+899000,62.46,38.0,1200.0,3.0,1,10.0,10.73,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1385000,75.85,10.0,790.0,3.0,2,3.0,6.0,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+729000,38.2,71.0,663.0,2.0,5,7.0,2.71,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1699000,90.2,16.0,1300.0,4.0,2,4.0,8.55,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1490000,65.0,96.0,460.0,3.0,3,4.0,3.27,Warszawa,kamienica,do zamieszkania,plastikowe,gazowe
+860000,48.4,24.0,902.0,2.0,2,10.0,10.73,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1210000,85.6,33.0,1150.0,4.0,3,5.0,7.48,Warszawa,blok,do zamieszkania,,inne
+700000,42.1,,760.0,2.0,2,2.0,11.23,Warszawa,blok,do zamieszkania,plastikowe,elektryczne
+999000,50.6,68.0,790.0,2.0,parter,2.0,3.26,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+2850000,123.0,29.0,2000.0,5.0,10,10.0,1.28,Warszawa,blok,,,miejskie
+1899000,68.0,125.0,700.0,3.0,2,6.0,0.99,Warszawa,kamienica,do wykończenia,plastikowe,miejskie
+1899000,85.0,88.0,1200.0,4.0,2,3.0,0.92,Warszawa,kamienica,do remontu,,miejskie
+799000,43.0,21.0,650.0,2.0,3,,3.62,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+459000,37.6,54.0,600.0,2.0,4,10.0,6.56,Warszawa,blok,do remontu,plastikowe,
+840000,48.7,47.0,1500.0,3.0,> 10,15.0,2.95,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1050000,50.0,72.0,818.0,2.0,1,3.0,3.59,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+540000,38.0,56.0,,1.0,4,4.0,5.76,Warszawa,blok,do wykończenia,plastikowe,miejskie
+973940,44.27,0.0,,2.0,3,4.0,6.23,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1682000,62.9,5.0,950.0,3.0,9,11.0,3.47,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+999000,41.5,4.0,700.0,2.0,5,9.0,3.61,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1920000,76.99,18.0,,2.0,1,17.0,2.16,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1447500,82.5,50.0,1275.0,3.0,> 10,11.0,2.89,Warszawa,blok,do remontu,plastikowe,miejskie
+999000,74.7,37.0,1040.0,4.0,2,3.0,10.69,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+750000,48.5,55.0,711.0,3.0,1,4.0,5.09,Warszawa,blok,do remontu,,miejskie
+720000,39.77,1.0,,2.0,3,7.0,7.93,Warszawa,apartamentowiec,do wykończenia,,miejskie
+955500,48.61,52.0,820.0,2.0,4,16.0,2.53,Warszawa,blok,do zamieszkania,,miejskie
+849000,57.24,22.0,,2.0,1,7.0,5.99,Warszawa,blok,do zamieszkania,,miejskie
+1275000,59.05,3.0,950.0,3.0,1,6.0,5.22,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+699000,35.5,71.0,650.0,2.0,3,4.0,3.72,Warszawa,kamienica,do zamieszkania,,miejskie
+920000,57.5,56.0,900.0,3.0,6,15.0,0.93,Warszawa,blok,do zamieszkania,,miejskie
+945000,31.83,5.0,450.0,1.0,1,6.0,3.79,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1088000,41.44,112.0,700.0,2.0,2,2.0,2.44,Warszawa,kamienica,,plastikowe,miejskie
+750000,43.91,4.0,1000.0,2.0,parter,6.0,10.36,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1150000,63.5,23.0,1200.0,3.0,1,6.0,5.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+698000,49.86,71.0,610.0,2.0,1,3.0,4.37,Warszawa,blok,,drewniane,miejskie
+1490000,108.19,30.0,1850.0,4.0,4,4.0,6.61,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+777000,38.0,96.0,,2.0,4,4.0,1.86,Warszawa,kamienica,do zamieszkania,,miejskie
+669000,44.0,60.0,590.0,2.0,4,4.0,3.62,Warszawa,blok,,plastikowe,miejskie
+329000,36.4,,590.0,2.0,parter,10.0,92.97,Radom,blok,do zamieszkania,plastikowe,miejskie
+690000,32.14,8.0,730.0,2.0,parter,5.0,4.11,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+610000,37.3,59.0,800.0,2.0,1,13.0,1.8,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+315000,55.5,,289.0,3.0,3,3.0,85.48,Kotuń,blok,do zamieszkania,,
+839000,65.0,47.0,1050.0,3.0,1,10.0,6.91,Warszawa,blok,do remontu,plastikowe,miejskie
+1440000,81.1,26.0,1447.0,3.0,3,15.0,3.52,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+899000,59.2,3.0,1100.0,3.0,2,5.0,16.32,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+670000,41.0,5.0,640.0,2.0,2,3.0,24.99,Zegrze Południowe,blok,do zamieszkania,,miejskie
+956000,92.0,11.0,1200.0,4.0,8,16.0,17.18,Piaseczno,blok,do zamieszkania,plastikowe,miejskie
+1700000,73.0,17.0,1200.0,3.0,parter,4.0,9.05,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1786000,55.84,2.0,681.0,3.0,7,8.0,2.01,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+679000,84.5,43.0,1000.0,4.0,parter,4.0,85.43,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+779000,57.6,60.0,890.0,3.0,2,4.0,4.42,Warszawa,blok,do remontu,plastikowe,miejskie
+760000,41.89,3.0,440.0,2.0,parter,4.0,6.17,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+950000,45.32,4.0,287.0,2.0,4,8.0,6.71,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+900000,45.99,3.0,483.0,2.0,2,4.0,6.17,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1060000,56.03,3.0,589.0,3.0,4,4.0,6.17,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+837000,39.09,4.0,254.0,2.0,6,12.0,6.81,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+683000,33.74,3.0,355.0,2.0,1,4.0,6.17,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1410750,70.38,3.0,444.0,3.0,5,8.0,6.7,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+589000,40.32,87.0,639.0,2.0,1,3.0,4.16,Warszawa,kamienica,do remontu,plastikowe,gazowe
+990000,46.37,3.0,293.0,2.0,7,8.0,6.73,Warszawa,apartamentowiec,do zamieszkania,plastikowe,
+748000,53.0,0.0,600.0,3.0,3,4.0,8.13,Warszawa,blok,do wykończenia,,miejskie
+759000,53.0,0.0,600.0,3.0,3,4.0,8.72,Warszawa,blok,do wykończenia,,miejskie
+955000,46.33,4.0,293.0,2.0,2,8.0,6.68,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+870000,74.5,,700.0,3.0,2,2.0,14.86,Józefosław,blok,do zamieszkania,plastikowe,gazowe
+835000,60.7,50.0,1000.0,3.0,1,7.0,5.16,Warszawa,blok,do remontu,plastikowe,miejskie
+420000,31.0,18.0,,1.0,parter,3.0,13.45,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+679000,42.94,49.0,856.0,2.0,10,10.0,5.6,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+835000,47.3,22.0,1000.0,2.0,1,4.0,4.25,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2200000,78.68,17.0,1500.0,4.0,1,7.0,0.72,Warszawa,apartamentowiec,,,miejskie
+2990000,81.0,1.0,,3.0,6,28.0,0.67,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+875750,56.5,53.0,1000.0,3.0,8,10.0,4.0,Warszawa,blok,,,miejskie
+1450000,72.0,24.0,,3.0,5,8.0,0.51,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2590000,144.0,28.0,,4.0,3,9.0,2.35,Warszawa,blok,do zamieszkania,drewniane,miejskie
+1510000,52.54,,720.0,3.0,3,7.0,1.38,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1040000,48.7,4.0,312.0,2.0,1,8.0,6.68,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1449000,83.0,74.0,1700.0,4.0,3,3.0,4.29,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+998000,43.35,10.0,1175.0,2.0,4,7.0,6.18,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+3150000,150.0,26.0,,4.0,4,5.0,3.19,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+526000,40.48,14.0,900.0,2.0,4,4.0,15.76,Kręczki,blok,do wykończenia,plastikowe,kotłownia
+655000,55.88,20.0,,2.0,1,3.0,10.16,Ząbki,blok,do zamieszkania,plastikowe,inne
+890000,84.5,18.0,1500.0,3.0,2,2.0,11.87,Marki,blok,do zamieszkania,,gazowe
+1290000,54.8,65.0,1059.0,2.0,1,4.0,0.77,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1399000,50.4,17.0,800.0,2.0,5,8.0,3.37,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+516000,42.25,60.0,650.0,2.0,3,2.0,8.65,Warszawa,blok,do remontu,,miejskie
+893000,54.0,56.0,1153.0,3.0,4,10.0,4.06,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1100000,68.0,32.0,,3.0,2,7.0,5.48,Warszawa,blok,do zamieszkania,,miejskie
+1591000,37.0,2.0,,1.0,> 10,29.0,1.6,Warszawa,apartamentowiec,do zamieszkania,,
+2799000,72.0,18.0,1500.0,2.0,1,6.0,1.25,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1050000,38.5,116.0,,1.0,1,4.0,1.41,Warszawa,kamienica,do zamieszkania,,
+1349000,62.1,20.0,,3.0,parter,6.0,3.98,Warszawa,blok,,,miejskie
+659000,38.0,61.0,720.0,2.0,5,7.0,4.3,Warszawa,blok,do remontu,plastikowe,miejskie
+730000,32.09,9.0,800.0,1.0,parter,6.0,5.73,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+750000,56.0,26.0,1000.0,3.0,parter,2.0,12.41,Warszawa,blok,do wykończenia,,kotłownia
+749900,37.5,1.0,,2.0,2,3.0,6.25,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+940000,50.8,6.0,840.0,2.0,4,6.0,7.12,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1430000,82.4,19.0,1480.0,3.0,2,6.0,4.16,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1273300,55.73,14.0,930.0,2.0,6,10.0,4.95,Warszawa,apartamentowiec,,,miejskie
+360000,28.75,91.0,350.0,1.0,2,2.0,7.73,Warszawa,kamienica,do remontu,drewniane,kotłownia
+375000,20.0,71.0,300.0,1.0,2,4.0,2.83,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+2120000,125.25,26.0,1500.0,5.0,1,4.0,6.34,Warszawa,apartamentowiec,do zamieszkania,plastikowe,kotłownia
+2350000,94.15,69.0,1035.0,3.0,1,5.0,1.92,Warszawa,kamienica,,,miejskie
+540000,36.0,58.0,667.0,4.0,,16.0,4.67,Warszawa,blok,,,miejskie
+585000,35.0,43.0,700.0,2.0,6,10.0,6.84,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+939000,49.8,23.0,1100.0,2.0,3,12.0,10.45,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1140000,50.0,2.0,570.0,2.0,1,6.0,4.8,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+569000,45.01,19.0,800.0,2.0,1,4.0,9.96,Ząbki,blok,do zamieszkania,plastikowe,inne
+765000,40.98,12.0,400.0,2.0,1,3.0,6.45,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+825000,63.8,51.0,950.0,4.0,4,4.0,6.16,Warszawa,blok,,plastikowe,miejskie
+1199000,48.38,74.0,939.0,2.0,4,4.0,0.69,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+650000,40.05,66.0,655.0,2.0,3,4.0,3.52,Warszawa,kamienica,,,miejskie
+898498,76.52,0.0,1055.0,4.0,1,2.0,10.56,Warszawa,blok,do wykończenia,plastikowe,gazowe
+775000,47.24,69.0,1000.0,2.0,1,3.0,3.83,Warszawa,kamienica,do remontu,plastikowe,miejskie
+635000,38.0,51.0,830.0,2.0,1,11.0,4.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+599000,31.0,51.0,330.0,2.0,1,10.0,7.11,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+497861,36.9,0.0,490.0,2.0,1,2.0,10.58,Warszawa,blok,do wykończenia,plastikowe,gazowe
+2500000,79.0,,1250.0,3.0,2,3.0,0.94,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+5647680,235.32,19.0,2500.0,5.0,3,3.0,9.2,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+3650000,122.0,6.0,1800.0,5.0,4,4.0,8.73,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1370000,50.0,68.0,800.0,2.0,parter,5.0,1.7,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+3499000,117.9,1.0,,4.0,2,3.0,4.8,Warszawa,blok,do zamieszkania,drewniane,miejskie
+2699000,71.0,1.0,2300.0,3.0,3,6.0,1.67,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+3050000,129.3,73.0,,3.0,4,4.0,1.95,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+1020000,47.6,71.0,920.0,2.0,3,7.0,0.64,Warszawa,kamienica,do remontu,plastikowe,miejskie
+850000,39.56,2.0,1000.0,2.0,5,5.0,5.02,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2320000,96.48,16.0,1350.0,3.0,2,9.0,1.13,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+2990000,132.4,27.0,2425.0,4.0,1,2.0,8.66,Warszawa,apartamentowiec,,drewniane,gazowe
+2590000,79.6,11.0,1750.0,3.0,1,7.0,1.76,Warszawa,apartamentowiec,,,miejskie
+4300000,124.0,96.0,1700.0,5.0,6,6.0,2.24,Warszawa,kamienica,do zamieszkania,drewniane,miejskie
+4990000,145.3,,1943.0,5.0,4,5.0,5.62,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+835000,40.29,2.0,1000.0,2.0,3,5.0,4.99,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1375000,61.1,25.0,1000.0,2.0,7,10.0,6.74,Warszawa,apartamentowiec,do zamieszkania,plastikowe,kotłownia
+4150000,134.0,17.0,2000.0,4.0,4,4.0,9.77,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+6150000,150.0,8.0,2900.0,5.0,> 10,14.0,1.05,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1250000,60.0,14.0,800.0,2.0,3,4.0,9.72,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2799000,116.0,28.0,,4.0,4,5.0,3.33,Warszawa,apartamentowiec,do zamieszkania,,miejskie
+1139000,69.0,97.0,630.0,2.0,3,4.0,2.2,Warszawa,kamienica,do zamieszkania,plastikowe,gazowe
+2890000,53.0,12.0,2200.0,2.0,> 10,44.0,0.5,Warszawa,apartamentowiec,,,miejskie
+2799000,131.01,,2900.0,4.0,3,3.0,5.58,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1390000,56.0,96.0,,2.0,2,3.0,4.05,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+680000,41.79,54.0,850.0,2.0,3,10.0,6.88,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+289000,33.39,,580.0,1.0,1,3.0,43.0,Żyrardów,blok,,plastikowe,miejskie
+870000,69.0,89.0,800.0,3.0,1,3.0,6.7,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+2850000,87.99,96.0,1150.0,3.0,2,,1.51,Warszawa,kamienica,do zamieszkania,,miejskie
+761250,43.5,56.0,600.0,2.0,2,7.0,3.47,Warszawa,blok,do zamieszkania,drewniane,miejskie
+429000,37.08,,580.0,2.0,2,4.0,53.09,Sochaczew,blok,do zamieszkania,plastikowe,miejskie
+1299000,59.0,114.0,1000.0,2.0,4,7.0,1.2,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+914000,44.1,2.0,287.0,2.0,6,6.0,5.35,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+449000,120.0,5.0,780.0,3.0,3,3.0,43.88,Żyrardów,apartamentowiec,do wykończenia,drewniane,miejskie
+499000,53.17,1.0,450.0,3.0,5,5.0,50.96,Warka,blok,do wykończenia,plastikowe,miejskie
+900000,38.8,56.0,716.0,2.0,6,15.0,1.0,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+915000,44.11,2.0,287.0,2.0,6,6.0,5.5,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+1030000,53.45,18.0,1000.0,2.0,6,6.0,4.63,Warszawa,blok,do zamieszkania,drewniane,miejskie
+189000,25.36,,400.0,1.0,2,,41.83,Grójec,blok,,plastikowe,
+1449000,76.25,75.0,1129.0,3.0,2,5.0,1.35,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+865000,72.0,49.0,1500.0,4.0,5,12.0,6.09,Warszawa,blok,do wykończenia,plastikowe,miejskie
+740000,73.36,18.0,360.0,4.0,2,3.0,23.63,Radzymin,blok,do zamieszkania,plastikowe,gazowe
+1999000,100.0,16.0,950.0,5.0,5,5.0,6.61,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+1190000,62.0,18.0,1300.0,2.0,3,3.0,9.17,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+568000,38.0,48.0,,2.0,1,10.0,15.19,Pruszków,blok,do zamieszkania,plastikowe,miejskie
+540000,38.0,56.0,600.0,2.0,4,4.0,9.27,Warszawa,blok,,,miejskie
+580000,26.28,,,1.0,3,4.0,2.13,Warszawa,blok,do zamieszkania,,
+610000,58.0,10.0,600.0,3.0,parter,3.0,87.62,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+374000,31.47,46.0,450.0,2.0,2,,86.53,Siedlce,blok,do zamieszkania,plastikowe,miejskie
+650000,53.2,50.0,790.0,3.0,2,11.0,7.93,Warszawa,blok,do remontu,plastikowe,miejskie
+850000,36.97,69.0,630.0,2.0,parter,4.0,2.87,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+1880000,85.0,5.0,1300.0,4.0,parter,3.0,7.68,Warszawa,apartamentowiec,do zamieszkania,,
+765000,50.0,67.0,,2.0,2,3.0,6.27,Warszawa,blok,do remontu,plastikowe,miejskie
+840000,54.3,58.0,,3.0,5,10.0,3.33,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+750000,56.86,61.0,,3.0,parter,3.0,4.02,Warszawa,blok,do remontu,plastikowe,miejskie
+650000,52.94,10.0,530.0,2.0,4,4.0,85.88,Siedlce,blok,do zamieszkania,plastikowe,
+1150000,63.0,19.0,1076.0,2.0,2,4.0,9.04,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1200000,57.3,70.0,930.0,4.0,2,3.0,2.37,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+2350000,105.26,8.0,1400.0,4.0,2,4.0,8.57,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+899000,63.0,3.0,700.0,3.0,1,3.0,23.24,Otwock,apartamentowiec,do zamieszkania,drewniane,gazowe
+1249000,88.0,34.0,1400.0,4.0,9,10.0,6.23,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+730000,50.0,67.0,640.0,2.0,parter,4.0,6.15,Warszawa,blok,do zamieszkania,,miejskie
+3390000,115.0,103.0,1500.0,3.0,3,8.0,1.74,Warszawa,kamienica,do zamieszkania,plastikowe,miejskie
+529000,33.4,44.0,778.0,1.0,7,8.0,5.8,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+999000,75.8,19.0,855.0,3.0,parter,8.0,5.25,Warszawa,blok,do zamieszkania,,miejskie
+697000,53.59,26.0,966.0,3.0,3,3.0,18.29,Józefów,blok,do zamieszkania,,miejskie
+698000,44.07,72.0,883.0,2.0,4,4.0,1.2,Warszawa,kamienica,do remontu,,miejskie
+1935000,100.0,18.0,1500.0,4.0,parter,4.0,9.39,Warszawa,apartamentowiec,do zamieszkania,drewniane,miejskie
+1049000,35.34,3.0,600.0,2.0,7,8.0,5.54,Warszawa,apartamentowiec,do zamieszkania,plastikowe,miejskie
+790000,47.0,26.0,1200.0,2.0,4,11.0,5.4,Warszawa,blok,do wykończenia,,
+630000,58.5,50.0,1027.0,3.0,5,10.0,6.49,Warszawa,blok,do remontu,,miejskie
+599000,36.7,62.0,600.0,2.0,2,4.0,2.42,Warszawa,blok,do zamieszkania,plastikowe,miejskie
+819000,53.7,65.0,873.0,3.0,7,7.0,3.63,Warszawa,blok,do remontu,,miejskie
+650000,45.8,60.0,1100.0,3.0,6,11.0,6.0,Warszawa,blok,do zamieszkania,,miejskie

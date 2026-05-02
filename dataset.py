@@ -81,7 +81,7 @@ export_data = {
 
 df = pd.DataFrame(export_data)
 
-#df.to_excel(output_xlsx, index=False)
-#df.to_csv(output_csv, index=False)
+df.to_excel(output_xlsx, index=False)
+df.to_csv(output_csv, index=False)
 
 print(df)
