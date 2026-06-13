@@ -22,4 +22,4 @@ The primary business goal is to help real estate agents, investors, and individu
 ## Project Structure
 * `dataset.py` - Script for initial data parsing and feature engineering.
 * `raport.ipynb` - Main Jupyter Notebook containing the core analysis, data cleaning, and future ML models.
-* `dataset_csv.csv` / `dataset_xlsx.xlsx` - Processed tabular data ready for analysis.
+* `dataset_csv.csv` - Processed tabular data ready for analysis.
